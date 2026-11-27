@@ -1,0 +1,19 @@
+{
+    "header": {
+        "status": {
+            "name": "Fail",
+            "code": 1,
+            "description": "Validation error",
+            "message": [
+                "Table ID (B9XX0005) is not defined"
+            ],
+            "apiHelp": "https:\/\/www.censtatd.gov.hk\/en\/web_table.html?id=B9XX0005&api_popup=1"
+        },
+        "count": {
+            "noOfRecords": 0,
+            "started": "2026-11-16T10:43:05+00:00",
+            "finished": "2026-11-16T10:43:05+00:00",
+            "durationSeconds": 0.000143
+        }
+    }
+}

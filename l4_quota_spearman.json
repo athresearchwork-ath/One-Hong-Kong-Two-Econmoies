@@ -1,0 +1,41 @@
+{
+ "test": "L4 quota ordering vs industry pressure (wage share of VA 2023)",
+ "quota_sources": "ESLS Annex 2 (LegCo reply 2024-04-10, 2023-09-04..2024-03-31, 26 job categories mapped to industries) + LCQ3 (2024-07-10, Apr-Jun 2024: catering 5,917 retail 1,035) + DEVB construction sector scheme 6,608",
+ "quota_by_industry": {
+  "accom_food": 6979,
+  "trade": 1688,
+  "construction": 6610,
+  "mfg": 164,
+  "pub_social": 17,
+  "transport": 0
+ },
+ "wage_share_VA_2023": {
+  "accom_food": 98.2,
+  "construction": 81.8,
+  "mfg": 79.9,
+  "pub_social": 77.8,
+  "transport": 45.2,
+  "trade": 43.4
+ },
+ "rho_incl_construction_scheme": 0.66,
+ "rho_esls_only": 0.26,
+ "pre_registered_bands": "rho>=0.5 keep ordering sentence; rho<0.3 delete; 0.3-0.5 rewrite without ordering",
+ "data_limitation": "full-period by-industry quota table unpublished; job-to-industry mapping is judgment-laden; transport sector scheme numbers unavailable; construction scheme is capacity-driven (client: government)",
+ "verdict": "NOT ESTABLISHED (final): full-period mapping gives rho=-0.03 (ESLS only) / 0.37 (incl. construction sector scheme), both below the 0.5 keep threshold. Ordering claim deleted; only the two named industries written.",
+ "bugfix_note": "earlier variant B was computed with the same dict (bug); fixed",
+ "full_period_LCQ4_annex1": {
+  "period": "2023-09-04..2025-03-31",
+  "total": 54278,
+  "quota_by_34201_sector": {
+   "accom_food": 26428,
+   "trade": 7760,
+   "mfg": 2802,
+   "transport": 661,
+   "pub_social": 5339,
+   "construction": 6679
+  },
+  "unassigned": 11217,
+  "rho_incl_construction_scheme": 0.37,
+  "rho_esls_only": 0.03
+ }
+}

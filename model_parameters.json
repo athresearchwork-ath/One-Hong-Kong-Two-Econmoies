@@ -1,0 +1,19 @@
+{
+  "alpha_f": {
+    "2004_2024": 0.084,
+    "desc": "financial labour absorption coefficient"
+  },
+  "alpha_total": {
+    "2004_2024": -0.087,
+    "desc": "whole economy labour absorption"
+  },
+  "fin_va_growth": 385.0,
+  "fin_emp_growth": 32.5,
+  "fin_share": {
+    "2004": 12.8,
+    "2009": 15.4,
+    "2014": 16.3,
+    "2019": 20.4,
+    "2024": 25.6
+  }
+}
