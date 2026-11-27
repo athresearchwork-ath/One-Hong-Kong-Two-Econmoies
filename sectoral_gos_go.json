@@ -1,0 +1,102 @@
+{
+  "2004": {
+    "Finance": {
+      "gross_output": 257912,
+      "gos": 84557,
+      "gos_go_ratio": 32.8,
+      "wage_share": 49.0
+    },
+    "Trade": {
+      "gross_output": 1095520,
+      "gos": 183511,
+      "gos_go_ratio": 16.8,
+      "wage_share": 41.3
+    },
+    "Manufacturing": {
+      "gross_output": 152166,
+      "gos": 15467,
+      "gos_go_ratio": 10.2,
+      "wage_share": 59.3
+    },
+    "Construction": {
+      "gross_output": 86688,
+      "gos": 5536,
+      "gos_go_ratio": 6.4,
+      "wage_share": 85.5
+    },
+    "ICT": {
+      "gross_output": 96357,
+      "gos": 21099,
+      "gos_go_ratio": 21.9,
+      "wage_share": 48.7
+    },
+    "Accommodation": {
+      "gross_output": 59070,
+      "gos": 6983,
+      "gos_go_ratio": 11.8,
+      "wage_share": 76.8
+    },
+    "Transport": {
+      "gross_output": 252561,
+      "gos": 56108,
+      "gos_go_ratio": 22.2,
+      "wage_share": 46.2
+    },
+    "RE/Prof": {
+      "gross_output": 186844,
+      "gos": 49269,
+      "gos_go_ratio": 26.4,
+      "wage_share": 55.5
+    }
+  },
+  "2024": {
+    "Finance": {
+      "gross_output": 1264231,
+      "gos": 543093,
+      "gos_go_ratio": 43.0,
+      "wage_share": 32.9
+    },
+    "Trade": {
+      "gross_output": 1353500,
+      "gos": 302443,
+      "gos_go_ratio": 22.3,
+      "wage_share": 41.8
+    },
+    "Manufacturing": {
+      "gross_output": 286664,
+      "gos": 5779,
+      "gos_go_ratio": 2.0,
+      "wage_share": 78.7
+    },
+    "Construction": {
+      "gross_output": 252282,
+      "gos": 22934,
+      "gos_go_ratio": 9.1,
+      "wage_share": 81.8
+    },
+    "ICT": {
+      "gross_output": 236192,
+      "gos": 52289,
+      "gos_go_ratio": 22.1,
+      "wage_share": 48.3
+    },
+    "Accommodation": {
+      "gross_output": 137213,
+      "gos": -1224,
+      "gos_go_ratio": -0.9,
+      "wage_share": 98.4
+    },
+    "Transport": {
+      "gross_output": 538161,
+      "gos": 102512,
+      "gos_go_ratio": 19.0,
+      "wage_share": 44.5
+    },
+    "RE/Prof": {
+      "gross_output": 481057,
+      "gos": 61285,
+      "gos_go_ratio": 12.7,
+      "wage_share": 74.6
+    }
+  }
+}

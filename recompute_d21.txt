@@ -1,0 +1,11 @@
+# d21 private equipment stock (PIM) — verified numbers only
+# Source: C&SD 310-32031 private machinery+IP investment (HK$mn)
+# Nominal investment: 2004=36145  2014=69659  2019=38754  2024=43963  2025=61858
+# PIM: K_t = (1-delta)K_{t-1} + I_t, seed = I_1995/delta
+# delta=12%: K2004=325777  K2014=447926  K2024=384604  (2014->24 = -14.1%)
+# delta=15%: K2004=259987  K2014=373791  K2024=302243  (2014->24 = -19.1%)
+# delta=20%: K2004=193835  K2014=296004  K2024=219023  (2014->24 = -26.0%)
+# Manuscript §4.4 stock (HK$bn): 1023 / 1353 / 1031, -24%.
+# Robust: 2024 stock below 2014 at every delta (-14% to -26%).
+# NOT reproduced: the 1023/1353/1031 levels from C&SD private flows at delta=15%
+#   (implies delta~4-5%); construction method external to this workdir.

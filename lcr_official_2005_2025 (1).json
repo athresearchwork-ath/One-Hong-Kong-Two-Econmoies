@@ -1,0 +1,170 @@
+{
+  "2005": {
+    "pce": 811654,
+    "gdp": 1412125,
+    "pce_gdp": 57.5,
+    "retail": 204372,
+    "retail_gdp": 14.5,
+    "retail_pce": 25.2
+  },
+  "2006": {
+    "pce": 868691,
+    "gdp": 1503351,
+    "pce_gdp": 57.8,
+    "retail": 219002,
+    "retail_gdp": 14.6,
+    "retail_pce": 25.2
+  },
+  "2007": {
+    "pce": 982368,
+    "gdp": 1650756,
+    "pce_gdp": 59.5,
+    "retail": 247000,
+    "retail_gdp": 15.0,
+    "retail_pce": 25.1
+  },
+  "2008": {
+    "pce": 1026482,
+    "gdp": 1707487,
+    "pce_gdp": 60.1,
+    "retail": 273126,
+    "retail_gdp": 16.0,
+    "retail_pce": 26.6
+  },
+  "2009": {
+    "pce": 1013615,
+    "gdp": 1659245,
+    "pce_gdp": 61.1,
+    "retail": 274742,
+    "retail_gdp": 16.6,
+    "retail_pce": 27.1
+  },
+  "2010": {
+    "pce": 1090234,
+    "gdp": 1776332,
+    "pce_gdp": 61.4,
+    "retail": 324966,
+    "retail_gdp": 18.3,
+    "retail_pce": 29.8
+  },
+  "2011": {
+    "pce": 1224402,
+    "gdp": 1934430,
+    "pce_gdp": 63.3,
+    "retail": 405732,
+    "retail_gdp": 21.0,
+    "retail_pce": 33.1
+  },
+  "2012": {
+    "pce": 1314969,
+    "gdp": 2037059,
+    "pce_gdp": 64.6,
+    "retail": 445498,
+    "retail_gdp": 21.9,
+    "retail_pce": 33.9
+  },
+  "2013": {
+    "pce": 1413058,
+    "gdp": 2138305,
+    "pce_gdp": 66.1,
+    "retail": 494451,
+    "retail_gdp": 23.1,
+    "retail_pce": 35.0
+  },
+  "2014": {
+    "pce": 1502768,
+    "gdp": 2260005,
+    "pce_gdp": 66.5,
+    "retail": 493236,
+    "retail_gdp": 21.8,
+    "retail_pce": 32.8
+  },
+  "2015": {
+    "pce": 1593091,
+    "gdp": 2398280,
+    "pce_gdp": 66.4,
+    "retail": 475156,
+    "retail_gdp": 19.8,
+    "retail_pce": 29.8
+  },
+  "2016": {
+    "pce": 1650101,
+    "gdp": 2490598,
+    "pce_gdp": 66.3,
+    "retail": 436623,
+    "retail_gdp": 17.5,
+    "retail_pce": 26.5
+  },
+  "2017": {
+    "pce": 1784375,
+    "gdp": 2659611,
+    "pce_gdp": 67.1,
+    "retail": 446136,
+    "retail_gdp": 16.8,
+    "retail_pce": 25.0
+  },
+  "2018": {
+    "pce": 1936427,
+    "gdp": 2835429,
+    "pce_gdp": 68.3,
+    "retail": 485169,
+    "retail_gdp": 17.1,
+    "retail_pce": 25.1
+  },
+  "2019": {
+    "pce": 1973720,
+    "gdp": 2845022,
+    "pce_gdp": 69.4,
+    "retail": 431160,
+    "retail_gdp": 15.2,
+    "retail_pce": 21.8
+  },
+  "2020": {
+    "pce": 1775202,
+    "gdp": 2675793,
+    "pce_gdp": 66.3,
+    "retail": 326451,
+    "retail_gdp": 12.2,
+    "retail_pce": 18.4
+  },
+  "2021": {
+    "pce": 1863524,
+    "gdp": 2867973,
+    "pce_gdp": 65.0,
+    "retail": 352948,
+    "retail_gdp": 12.3,
+    "retail_pce": 18.9
+  },
+  "2022": {
+    "pce": 1863500,
+    "gdp": 2808922,
+    "pce_gdp": 66.3,
+    "retail": 349964,
+    "retail_gdp": 12.5,
+    "retail_pce": 18.8
+  },
+  "2023": {
+    "pce": 2087569,
+    "gdp": 2981210,
+    "pce_gdp": 70.0,
+    "retail": 406649,
+    "retail_gdp": 13.6,
+    "retail_pce": 19.5
+  },
+  "2024": {
+    "pce": 2144475,
+    "gdp": 3186526,
+    "pce_gdp": 67.3,
+    "retail": 376847,
+    "retail_gdp": 11.8,
+    "retail_pce": 17.6
+  },
+  "2025": {
+    "pce": 2205779,
+    "gdp": 3329843,
+    "pce_gdp": 66.2,
+    "retail": 380445,
+    "retail_gdp": 11.4,
+    "retail_pce": 17.2
+  }
+}

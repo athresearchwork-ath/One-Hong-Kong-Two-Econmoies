@@ -1,0 +1,15 @@
+# d32 three legs — verified numbers only
+# GFCF four cells (310-32031, HK$mn): year | private bldg | public bldg | ownership-transfer | private mach&IP | public mach&IP | total
+2004 | 67533 | 40159 | 16797 | 149716 | 13155 | 287360
+2014 | 155701 | 88346 | 43967 | 219605 | 23297 | 530916
+2019 | 181226 | 96865 | 49209 | 158599 | 34676 | 520575
+# 2024 four cells derived in Table 4 Panel A (shares of GDP).
+
+# HKMA T3.5.1 (1982-2025, loans for use in HK): total & BCP
+#   2004 total=1792395 BCP=386488 ex-BCP=1405907
+#   2019 total=6786607 BCP=1617862 ex-BCP=5168745
+#   2024 total=7108739 BCP=1552482 ex-BCP=5556257
+#   BCP / total = 21.6%(04) -> 23.8%(19) -> 21.8%(24)
+# NFC = total - financial - brokers - professionals (API misc_fin/misc_stockbrok/misc_prof).
+# NOTE: leg-1 q and the bridge split computed in recompute_d33_leg1_bridge.txt (supersedes
+#   the earlier "cannot compute" note, which predated the 34201 construction-GOS removal).

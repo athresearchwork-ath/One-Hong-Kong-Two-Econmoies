@@ -1,0 +1,50 @@
+{
+  "2022": {
+    "Agriculture": 27.321668909825032,
+    "Manufacturing": 82.76938115647793,
+    "Electricity": 28.582422656610746,
+    "Construction": 80.84188542620664,
+    "ImportExport_Retail_Total": 45.35900333340746,
+    "Accommodation": 112.72105843439913,
+    "Transport": 37.36221205381201,
+    "ICT": 46.24736521382975,
+    "Finance": 43.11324338026608,
+    "RE_Prof_Business": 75.42793894308734,
+    "PublicAdmin": 78.58794390471486,
+    "OwnershipPremises": 0.0,
+    "Services_Subtotal": 50.68435261712296,
+    "All": 52.009202179248014
+  },
+  "2023": {
+    "Agriculture": 42.79398762157383,
+    "Manufacturing": 79.85889527050982,
+    "Electricity": 30.45803873347679,
+    "Construction": 81.79239169946106,
+    "ImportExport_Retail_Total": 43.41682408546861,
+    "Accommodation": 98.21724098379458,
+    "Transport": 45.21850178386334,
+    "ICT": 48.09122751780865,
+    "Finance": 36.40175503952978,
+    "RE_Prof_Business": 74.35435752782136,
+    "PublicAdmin": 77.76574282988892,
+    "OwnershipPremises": 0.0,
+    "Services_Subtotal": 48.84165238419458,
+    "All": 50.365070950275616
+  },
+  "2024": {
+    "Agriculture": 42.97729184188393,
+    "Manufacturing": 78.66836871808654,
+    "Electricity": 30.3843237884178,
+    "Construction": 81.80384879414005,
+    "ImportExport_Retail_Total": 41.78849811658524,
+    "Accommodation": 98.39452116313012,
+    "Transport": 44.543319156059866,
+    "ICT": 48.27158952292221,
+    "Finance": 32.8734094400788,
+    "RE_Prof_Business": 74.58229340670138,
+    "PublicAdmin": 78.9288371017247,
+    "OwnershipPremises": 0.0,
+    "Services_Subtotal": 47.466657795075854,
+    "All": 49.037107935320066
+  }
+}

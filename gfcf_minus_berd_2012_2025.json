@@ -1,0 +1,100 @@
+[
+  {
+    "year": 2012,
+    "private_meip_current_hkd_m": 258058.0,
+    "business_inhouse_rd_hkd_m": 6647.4,
+    "arithmetic_difference_not_hardware_hkd_m": 251410.6,
+    "note": null
+  },
+  {
+    "year": 2013,
+    "private_meip_current_hkd_m": 243614.0,
+    "business_inhouse_rd_hkd_m": 7017.4,
+    "arithmetic_difference_not_hardware_hkd_m": 236596.6,
+    "note": null
+  },
+  {
+    "year": 2014,
+    "private_meip_current_hkd_m": 219605.0,
+    "business_inhouse_rd_hkd_m": 7437.5,
+    "arithmetic_difference_not_hardware_hkd_m": 212167.5,
+    "note": null
+  },
+  {
+    "year": 2015,
+    "private_meip_current_hkd_m": 202976.0,
+    "business_inhouse_rd_hkd_m": 7993.7,
+    "arithmetic_difference_not_hardware_hkd_m": 194982.3,
+    "note": null
+  },
+  {
+    "year": 2016,
+    "private_meip_current_hkd_m": 179046.0,
+    "business_inhouse_rd_hkd_m": 8528.1,
+    "arithmetic_difference_not_hardware_hkd_m": 170517.9,
+    "note": null
+  },
+  {
+    "year": 2017,
+    "private_meip_current_hkd_m": 184724.0,
+    "business_inhouse_rd_hkd_m": 9412.3,
+    "arithmetic_difference_not_hardware_hkd_m": 175311.7,
+    "note": null
+  },
+  {
+    "year": 2018,
+    "private_meip_current_hkd_m": 204971.0,
+    "business_inhouse_rd_hkd_m": 10992.5,
+    "arithmetic_difference_not_hardware_hkd_m": 193978.5,
+    "note": "2018 R&D methodology break"
+  },
+  {
+    "year": 2019,
+    "private_meip_current_hkd_m": 158599.0,
+    "business_inhouse_rd_hkd_m": 11616.5,
+    "arithmetic_difference_not_hardware_hkd_m": 146982.5,
+    "note": null
+  },
+  {
+    "year": 2020,
+    "private_meip_current_hkd_m": 124794.0,
+    "business_inhouse_rd_hkd_m": 11043.9,
+    "arithmetic_difference_not_hardware_hkd_m": 113750.1,
+    "note": null
+  },
+  {
+    "year": 2021,
+    "private_meip_current_hkd_m": 132012.0,
+    "business_inhouse_rd_hkd_m": 11699.3,
+    "arithmetic_difference_not_hardware_hkd_m": 120312.7,
+    "note": null
+  },
+  {
+    "year": 2022,
+    "private_meip_current_hkd_m": 98237.0,
+    "business_inhouse_rd_hkd_m": 12370.7,
+    "arithmetic_difference_not_hardware_hkd_m": 85866.3,
+    "note": null
+  },
+  {
+    "year": 2023,
+    "private_meip_current_hkd_m": 130757.0,
+    "business_inhouse_rd_hkd_m": 12975.7,
+    "arithmetic_difference_not_hardware_hkd_m": 117781.3,
+    "note": null
+  },
+  {
+    "year": 2024,
+    "private_meip_current_hkd_m": 133925.0,
+    "business_inhouse_rd_hkd_m": 13906.1,
+    "arithmetic_difference_not_hardware_hkd_m": 120018.9,
+    "note": null
+  },
+  {
+    "year": 2025,
+    "private_meip_current_hkd_m": 186669,
+    "business_inhouse_rd_hkd_m": null,
+    "arithmetic_difference_not_hardware_hkd_m": null,
+    "note": "2025 BERD not found"
+  }
+]

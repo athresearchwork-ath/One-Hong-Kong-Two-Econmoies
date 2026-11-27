@@ -1,0 +1,18 @@
+# d33 leg1 + bridge — verified numbers only
+# NFC = total - fin - brokers - professionals (HKMA T3.5.1; cols: tot r84, BCP r52, fin r67, brokers r72, prof r73)
+# NFC check: 2004=854615  2019=3491426  2024=3423636 (= matrix_d16 L). BCP/NFC 40.8(2014)-50.7(2009).
+
+# Leg 1: q = Q/Pi (HIBOR)
+#   q_all (incl property & construction): 2004=1.0  2007=10.4  2014=1.5  2019=10.8  2023=24.6
+#   q_exC (less construction GOS):        2004=1.0  2019=11.1  2023=25.4  (2024 unavailable: 34201 ends 2023)
+
+# Bridge: gross = after_interest * (1 - q)
+# year  gross   q=Q/Pi  after
+2004  41.3    1.0     41.8
+2007  46.2    10.9    51.9
+2014  41.4    1.6     42.1
+2019  28.2    11.8    32.0
+2023  22.5    27.9    31.1
+2024  21.8    25.1    29.1
+# Decomposition (see output.py): 2014-19 withdrawal-dominant (-8.9 of -13.2);
+#   2019-24 interception-dominant (-4.3 of -6.4). Corrected per d34.

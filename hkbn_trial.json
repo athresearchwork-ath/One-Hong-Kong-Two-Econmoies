@@ -1,0 +1,24 @@
+[
+  {
+    "fy": 2018,
+    "cfo": 1076.537,
+    "cfi": -458.572,
+    "cff": -629.004,
+    "delta": -11.039,
+    "ppe_purchase": 433.301,
+    "investment_property": 0.0,
+    "ppe_sale": 1.913,
+    "net_interest": 101.935
+  },
+  {
+    "fy": 2019,
+    "cfo": 1352.173,
+    "cfi": -550.041,
+    "cff": -511.054,
+    "delta": 291.078,
+    "ppe_purchase": 413.86,
+    "investment_property": 191.431,
+    "ppe_sale": 4.795,
+    "net_interest": 276.802
+  }
+]

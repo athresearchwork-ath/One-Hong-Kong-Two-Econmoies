@@ -1,0 +1,22 @@
+{
+ "note": "Corrected IO household-consumption growth decomposition, 2007-2024, from ADB IOT F1 column (col38), domestic rows 7-41 + import rows 42-76. Replaces buggy five_step_decomp.py Step 2. Units: US$ million (ADB tables). Verified 2026-09-18.",
+ "total_2007_usdmn": 116566,
+ "total_2024_usdmn": 247341,
+ "growth_multiple": 2.12,
+ "growth_total_usdmn": 130775,
+ "contributions_to_growth_pct": {
+  "financial_intermediation": 29.1,
+  "real_estate_housing": 11.9,
+  "combined_fin_re": 41.0,
+  "wholesale_retail": 24.0,
+  "transport_travel_post": 20.0,
+  "hotels_restaurants": 4.4,
+  "education_health_community_business": 8.6,
+  "manufactures_utilities": 2.1
+ },
+ "levels_usdmn": {
+  "financial_intermediation": {"2007": 20082, "2024": 58155},
+  "real_estate": {"2007": 16828, "2024": 32347}
+ },
+ "cross_check": "VA total row 83: 203,312 (2007) / 393,672 (2024) US$mn ~= HK GDP at basic prices; PCE 2007 ~ US$125bn incl. direct purchases abroad"
+}

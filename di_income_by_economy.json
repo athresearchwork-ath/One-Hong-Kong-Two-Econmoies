@@ -1,0 +1,218 @@
+{
+ "1998": {
+  "odi_inc_total": 121.1,
+  "odi_inc_CN": 23.8,
+  "odi_inc_VG": 57.7,
+  "idi_inc_total": 131.8,
+  "idi_inc_CN": 16.6,
+  "idi_inc_VG": 20.3
+ },
+ "1999": {
+  "odi_inc_total": 135.7,
+  "odi_inc_CN": 28.9,
+  "odi_inc_VG": 66.4,
+  "idi_inc_total": 195.5,
+  "idi_inc_CN": 26.9,
+  "idi_inc_VG": 33.5
+ },
+ "2000": {
+  "odi_inc_total": 149.8,
+  "odi_inc_CN": 46.8,
+  "odi_inc_VG": 69.1,
+  "idi_inc_total": 261.2,
+  "idi_inc_CN": 36.5,
+  "idi_inc_VG": 48.9
+ },
+ "2001": {
+  "odi_inc_total": 166,
+  "odi_inc_CN": 63.6,
+  "odi_inc_VG": 74.1,
+  "idi_inc_total": 241.1,
+  "idi_inc_CN": 49.3,
+  "idi_inc_VG": 58.6
+ },
+ "2002": {
+  "odi_inc_total": 177.4,
+  "odi_inc_CN": 71.7,
+  "odi_inc_VG": 77.5,
+  "idi_inc_total": 251.3,
+  "idi_inc_CN": 55.5,
+  "idi_inc_VG": 54.3
+ },
+ "2003": {
+  "odi_inc_total": 191.8,
+  "odi_inc_CN": 79.1,
+  "odi_inc_VG": 86.5,
+  "idi_inc_total": 248.4,
+  "idi_inc_CN": 51.6,
+  "idi_inc_VG": 59.7
+ },
+ "2004": {
+  "odi_inc_total": 228.8,
+  "odi_inc_CN": 104,
+  "odi_inc_VG": 85.9,
+  "idi_inc_total": 309.3,
+  "idi_inc_CN": 78.9,
+  "idi_inc_VG": 71.6
+ },
+ "2005": {
+  "odi_inc_total": 271.3,
+  "odi_inc_CN": 121.2,
+  "odi_inc_VG": 108.7,
+  "idi_inc_total": 389.9,
+  "idi_inc_CN": 98.3,
+  "idi_inc_VG": 84
+ },
+ "2006": {
+  "odi_inc_total": 346.6,
+  "odi_inc_CN": 163.5,
+  "odi_inc_VG": 126.9,
+  "idi_inc_total": 466.7,
+  "idi_inc_CN": 127.6,
+  "idi_inc_VG": 111.8
+ },
+ "2007": {
+  "odi_inc_total": 497.3,
+  "odi_inc_CN": 229.3,
+  "odi_inc_VG": 184.6,
+  "idi_inc_total": 645.9,
+  "idi_inc_CN": 181.5,
+  "idi_inc_VG": 157.2
+ },
+ "2008": {
+  "odi_inc_total": 579.3,
+  "odi_inc_CN": 293.3,
+  "odi_inc_VG": 209.1,
+  "idi_inc_total": 648.5,
+  "idi_inc_CN": 212.3,
+  "idi_inc_VG": 186
+ },
+ "2009": {
+  "odi_inc_total": 572.8,
+  "odi_inc_CN": 277.9,
+  "odi_inc_VG": 228.6,
+  "idi_inc_total": 622.1,
+  "idi_inc_CN": 193.5,
+  "idi_inc_VG": 191.8
+ },
+ "2010": {
+  "odi_inc_total": 709.2,
+  "odi_inc_CN": 327.7,
+  "odi_inc_VG": 283.1,
+  "idi_inc_total": 790.9,
+  "idi_inc_CN": 256.1,
+  "idi_inc_VG": 224.2
+ },
+ "2011": {
+  "odi_inc_total": 808.6,
+  "odi_inc_CN": 379.7,
+  "odi_inc_VG": 331.6,
+  "idi_inc_total": 876.1,
+  "idi_inc_CN": 268.3,
+  "idi_inc_VG": 263.7
+ },
+ "2012": {
+  "odi_inc_total": 836,
+  "odi_inc_CN": 399.2,
+  "odi_inc_VG": 299.4,
+  "idi_inc_total": 923.3,
+  "idi_inc_CN": 273.2,
+  "idi_inc_VG": 252.1
+ },
+ "2013": {
+  "odi_inc_total": 906.3,
+  "odi_inc_CN": 441.2,
+  "odi_inc_VG": 320.7,
+  "idi_inc_total": 993.7,
+  "idi_inc_CN": 293.8,
+  "idi_inc_VG": 297.7
+ },
+ "2014": {
+  "odi_inc_total": 929.9,
+  "odi_inc_CN": 450.4,
+  "odi_inc_VG": 349,
+  "idi_inc_total": 1037.8,
+  "idi_inc_CN": 306.5,
+  "idi_inc_VG": 316.9
+ },
+ "2015": {
+  "odi_inc_total": 937,
+  "odi_inc_CN": 463.7,
+  "odi_inc_VG": 324.8,
+  "idi_inc_total": 1051.9,
+  "idi_inc_CN": 270,
+  "idi_inc_VG": 317.7
+ },
+ "2016": {
+  "odi_inc_total": 905.9,
+  "odi_inc_CN": 452.6,
+  "odi_inc_VG": 275.1,
+  "idi_inc_total": 1030,
+  "idi_inc_CN": 258.3,
+  "idi_inc_VG": 293.7
+ },
+ "2017": {
+  "odi_inc_total": 961.8,
+  "odi_inc_CN": 448.9,
+  "odi_inc_VG": 309.7,
+  "idi_inc_total": 1079.3,
+  "idi_inc_CN": 253.5,
+  "idi_inc_VG": 326.3
+ },
+ "2018": {
+  "odi_inc_total": 1045.3,
+  "odi_inc_CN": 487.7,
+  "odi_inc_VG": 331.6,
+  "idi_inc_total": 1177.4,
+  "idi_inc_CN": 297.9,
+  "idi_inc_VG": 380.3
+ },
+ "2019": {
+  "odi_inc_total": 1062.9,
+  "odi_inc_CN": 530.4,
+  "odi_inc_VG": 323.6,
+  "idi_inc_total": 1198.7,
+  "idi_inc_CN": 329,
+  "idi_inc_VG": 360
+ },
+ "2020": {
+  "odi_inc_total": 1036.5,
+  "odi_inc_CN": 569.8,
+  "odi_inc_VG": 302.3,
+  "idi_inc_total": 1139.7,
+  "idi_inc_CN": 316.9,
+  "idi_inc_VG": 296.2
+ },
+ "2021": {
+  "odi_inc_total": 1164.9,
+  "odi_inc_CN": 653.9,
+  "odi_inc_VG": 316.5,
+  "idi_inc_total": 1276.8,
+  "idi_inc_CN": 359.7,
+  "idi_inc_VG": 355.3
+ },
+ "2022": {
+  "odi_inc_total": 1200.7,
+  "odi_inc_CN": 636.6,
+  "odi_inc_VG": 391.4,
+  "idi_inc_total": 1339.2,
+  "idi_inc_CN": 469.4,
+  "idi_inc_VG": 356.6
+ },
+ "2023": {
+  "odi_inc_total": 1175.4,
+  "odi_inc_CN": 684,
+  "odi_inc_VG": 302.3,
+  "idi_inc_total": 1337.6,
+  "idi_inc_CN": 416,
+  "idi_inc_VG": 370.8
+ },
+ "2024": {
+  "odi_inc_total": 1307.7,
+  "odi_inc_CN": 734.2,
+  "odi_inc_VG": 339.6,
+  "idi_inc_total": 1451.4,
+  "idi_inc_CN": 479.9,
+  "idi_inc_VG": 396.3
+ }
+}
