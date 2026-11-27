@@ -1,0 +1,92 @@
+{
+  "hib": [
+    {
+      "interest_first": {
+        "interest_pct": 11.350192732373065,
+        "borrowing_pct": 29.424761187815452,
+        "conversion_pct": 59.22504607981148,
+        "change_log_g": -0.37097823890035825
+      },
+      "borrowing_first": {
+        "interest_pct": 9.850529108130859,
+        "borrowing_pct": 30.924424812057666,
+        "conversion_pct": 59.22504607981148,
+        "change_log_g": -0.37097823890035825
+      }
+    },
+    {
+      "interest_first": {
+        "interest_pct": 15.800006025804423,
+        "borrowing_pct": 38.39559925132019,
+        "conversion_pct": 45.80439472287539,
+        "change_log_g": -0.45825828432438065
+      },
+      "borrowing_first": {
+        "interest_pct": 17.687385592511227,
+        "borrowing_pct": 36.50821968461339,
+        "conversion_pct": 45.80439472287539,
+        "change_log_g": -0.45825828432438065
+      }
+    }
+  ],
+  "mid": [
+    {
+      "interest_first": {
+        "interest_pct": 14.883087780028395,
+        "borrowing_pct": 29.742961352266164,
+        "conversion_pct": 55.373950867705446,
+        "change_log_g": -0.37097823890035825
+      },
+      "borrowing_first": {
+        "interest_pct": 13.701624320236894,
+        "borrowing_pct": 30.924424812057666,
+        "conversion_pct": 55.373950867705446,
+        "change_log_g": -0.37097823890035825
+      }
+    },
+    {
+      "interest_first": {
+        "interest_pct": 16.580761266777245,
+        "borrowing_pct": 40.22716230209803,
+        "conversion_pct": 43.192076431124725,
+        "change_log_g": -0.45825828432438065
+      },
+      "borrowing_first": {
+        "interest_pct": 20.29970388426188,
+        "borrowing_pct": 36.50821968461339,
+        "conversion_pct": 43.192076431124725,
+        "change_log_g": -0.45825828432438065
+      }
+    }
+  ],
+  "prime": [
+    {
+      "interest_first": {
+        "interest_pct": 11.357428597456073,
+        "borrowing_pct": 32.33812521058862,
+        "conversion_pct": 56.304446191955314,
+        "change_log_g": -0.37097823890035825
+      },
+      "borrowing_first": {
+        "interest_pct": 12.771128995987027,
+        "borrowing_pct": 30.924424812057666,
+        "conversion_pct": 56.304446191955314,
+        "change_log_g": -0.37097823890035825
+      }
+    },
+    {
+      "interest_first": {
+        "interest_pct": 3.7577622912249686,
+        "borrowing_pct": 42.76136895600012,
+        "conversion_pct": 53.48086875277491,
+        "change_log_g": -0.45825828432438065
+      },
+      "borrowing_first": {
+        "interest_pct": 10.010911562611703,
+        "borrowing_pct": 36.50821968461339,
+        "conversion_pct": 53.48086875277491,
+        "change_log_g": -0.45825828432438065
+      }
+    }
+  ]
+}

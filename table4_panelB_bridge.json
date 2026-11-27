@@ -1,0 +1,30 @@
+[
+ {
+  "year": 2004,
+  "gross_intensity_pct": 41.3,
+  "claims_ratio_pct": 1.0,
+  "after_interest_pct": 41.8,
+  "recon_gross_pct": 41.4
+ },
+ {
+  "year": 2014,
+  "gross_intensity_pct": 41.4,
+  "claims_ratio_pct": 1.6,
+  "after_interest_pct": 42.1,
+  "recon_gross_pct": 41.4
+ },
+ {
+  "year": 2019,
+  "gross_intensity_pct": 28.2,
+  "claims_ratio_pct": 11.8,
+  "after_interest_pct": 32.0,
+  "recon_gross_pct": 28.2
+ },
+ {
+  "year": 2024,
+  "gross_intensity_pct": 21.8,
+  "claims_ratio_pct": 25.1,
+  "after_interest_pct": 29.1,
+  "recon_gross_pct": 21.8
+ }
+]
