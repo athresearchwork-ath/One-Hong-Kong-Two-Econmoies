@@ -1,0 +1,358 @@
+# One Hong Kong, Two Economies: Financialisation, Profitability and Capital Accumulation
+## Appendix B (supplementary tables and detail)
+
+
+Relocated from the main text: the industry surplus-ratio levels and persistence detail (Table B1), the production–reproduction-circuit capital stock (Table B2), the external-asset reconciliation (Table B3), the financial-sector input–output structure (Table B4), the finance scale table (Table B5) and the mortgage-burden table (Table B6), together with the industry-level price–surplus-ratio correlations (finance-excluded and rank versions), the financial-intermediation content series with its FISIM caveat, the ASEA fixed-asset comparison and the lag-correlation evidence for the timing of finance's weight gain.
+
+**Table B1. Surplus ratio (GOS/Gross Output) by industry, %, 2004–2023**
+
+| Industry | 2004 | 2014 | 2023 |
+|---|---:|---:|---:|
+| Finance & insurance | 32.8 | 26.2 | **40.2** |
+| Information & communications | 21.9 | 21.2 | 22.5 |
+| Import/export, wholesale & retail | 16.8 | 21.3 | 21.2 |
+| Transport & storage | 22.2 | 14.1 | 19.2 |
+| Public admin, social & personal | 12.2 | 13.9 | 14.7 |
+| Real estate, prof & business | 26.4 | 26.6 | 13.0 |
+| Construction | 6.4 | 10.2 | 9.3 |
+| Manufacturing | 10.2 | 3.6 | **2.3** |
+| Accommodation & food | 11.8 | 18.8 | −0.5 |
+| **Total economy** | **22.5** | **23.6** | **25.1** |
+
+*Source: C&SD Table 310-34201 (GOS and gross output rows), to 2023, the industry account's firm terminal year (2024 provisional). Industries exclude ownership of premises; the total-economy row includes it. A surplus ratio is GOS/GO, not a profit rate.*
+
+**Table B2. production–reproduction-circuit capital stock and rate of return (PIM, δ = 15%)**
+
+| | 2004 | 2014 | 2019 | 2024 |
+|---|---:|---:|---:|---:|
+| K, machinery+IP only (HK$bn) | 1,108 | **1,469** | 1,446 | **1,270** |
+| K, machinery+IP+all building (HK$bn) | 6,395 | 6,762 | 7,340 | 7,674 |
+| r_B bounds | [6.2%, 35.9%] | [9.1%, 41.7%] | [8.5%, 43.3%] | [8.0%, 48.6%] |
+
+*Source: PIM on 310-32031 machinery/IP (and, for the upper-bound K, all building and construction); numerator NFC GOS from 34402. Machinery δ = 15% (sensitivity 12–20%); buildings δ = 3% (sensitivity 2.5–5%), a structures-appropriate rate; steady-state seed K1994 = flow1995/δ per asset class. The main text reports the private machinery-and-IP caliber (Table III, Panel B); this table carries the economy-wide stock. The estimates illustrate sensitivity to the capital definition; the machinery-only K includes no property capital, while the all-building K includes residential property. They do not establish strict bounds on the unobserved circuit-specific rate.*
+
+*Revaluation sensitivity for Appendix A14.* The historical-cost proxy starts from PWT asset-specific 1960 stocks and applies nominal investment and asset-specific annual PWT consumption-of-fixed-capital-to-stock ratios in a year-end perpetual-inventory calculation. Its 2019 relative rate wedge is 44.3%. For 2024, an illustrative extension uses C&SD 310-32031 investment, 2023 depreciation rates and equipment mix, and no asset-price change; it yields 37.8%, not an official PWT 2024 estimate. The estimate is sensitive to these assumptions. The 2019 and 2023 current-cost net returns are 7.66% and 8.82%, respectively; the net numerator is held common across cost measures.
+
+**Table B3. Reconciliation of changes in net external financial assets (HK$bn)**
+
+| Period | Change in net IIP | Net financial-account transactions | Non-transaction and reconciliation residual |
+|---|---:|---:|---:|
+| 2004 | +223.5 | +171.4 | +52.1 |
+| 2008 | +1,062.6 | +252.8 | +809.9 |
+| 2014 | +871.8 | +73.0 | +798.7 |
+| 2019 | +2,249.8 | +236.8 | +2,013.1 |
+| 2024 | +1,885.3 | +461.4 | +1,423.9 |
+| 2004–2023, cumulative | +10,652.2 | +3,455.3 | +7,196.8 |
+| 2004–2024, cumulative | +12,537.5 | +3,916.7 | +8,620.7 |
+
+*Source: C&SD 315-37021, release 22 June 2026, and 315-37004, release 21 September 2026. Single-year rows run from the previous year-end; the cumulative rows begin at end-2003. Residual = change in net international investment position minus net financial-account transactions. It includes price and exchange-rate valuation, other changes in volume or classification, and any reconciliation or vintage differences; it is not pure valuation. Different release dates do not of themselves invalidate the comparison. End-2004 to end-2024 portfolio assets rose HK$13,707.5bn, recorded net asset transactions were HK$9,240.6bn, and the non-transaction and reconciliation residual was HK$4,466.8bn.*
+
+**Table B4. Financial-sector input-output structure**
+
+| | 2007 | 2014 | 2024 |
+|---|---:|---:|---:|
+| Direct intermediate-input coefficient | 0.265 | 0.335 | 0.337 |
+| Output multiplier | 1.374 | 1.499 | 1.518 |
+| Multiplier with self-purchases removed | 1.154 | 1.197 | 1.163 |
+| Self-input coefficient a_fin,fin | 0.158 | 0.199 | 0.231 |
+| Internal turnover, share of multiplier | 16.0% | 20.1% | 23.4% |
+
+*Source: ADB HKG input-output tables (35-sector, RAS-adjusted estimates). The multiplier is the column sum of the Leontief inverse for finance; the self-purchase-removed variant sets a_fin,fin = 0. Decomposition of financial output growth 2007–2024 (two-term polar decomposition of the Leontief identity, nominal tables): final demand 78–89% across the two polar forms, household consumption 73–74% of the demand effect.*
+
+*Competition and persistence. Within the non-financial economy, surplus-ratio deviations are 8–9% closed each year; across the finance boundary the differential does not close in the full sample, and the full-sample figure is concentrated in the 2022–24 FISIM repricing, so the coefficient cannot separate an entry barrier from the rate cycle. The candidate obstacles are concrete where they can be checked, banking and insurance licences, the conduit position and land-supply control; risk premia and the FISIM premium are rival readings. The unweighted dispersion of industry surplus ratios rose from 0.45 to 0.73 (2004–2023), the output-weighted measure only to 0.53: non-financial competition functions; what it cannot do is cross the boundary. The persistence coefficients are consistent with an entry barrier but cannot separate it from risk, composition or measurement (Table B1 for the levels).*
+
+*Industry-level price–surplus-ratio correlations: price change against surplus ratio change, +0.53 over 2007–23 and +0.65 over 2019–23 (seven industries with matched deflator and surplus ratio series; excluding finance, +0.37 and +0.62; rank correlations +0.54 and +0.50). Financial-intermediation content of the consumption price, direct and indirect through the Leontief inverse: 8.1% (2007), 4.7% (2014), 5.5% (2016), 9.3% (2018), 10.6% (2019), 15.5% (2023), 15.8% (2024). The ADB household-consumption vector changes in 2017–18, its import share falling from 36 to 18%, so the series is read within segments: within the later segment the rise runs from 9.3 to 15.8, four-fifths of it after 2019, and the level includes financial-industry surplus and is not an isolated estimate or causal upper bound of FISIM repricing. The financial surplus coefficient applies the C&SD financial-industry GOS/(GOS + employee compensation) ratio to the ADB finance value-added coefficient; direct refers to final finance demand, and indirect includes all intermediate requirements including self-purchases. Within the earlier segment the content fell from 8.1 to 5.5, which is adverse to any reading of downward stickiness unless the deposit side of FISIM explains it. Manufacturing's surplus ratio fell from about 10% (2004) to 2.3% (2023), the decline complete before the pandemic; accommodation and food, at −0.5% in 2023, combines a long squeeze with the pandemic's aftermath.*
+
+**Table B5. Financial and non-financial corporations: output, surplus and shares, 2004–2024**
+
+| | 2004 | 2014 | 2019 | 2024 |
+|---|---:|---:|---:|---:|
+| FC GOS (HK$mn) | 84,557 | 162,782 | 308,466 | **543,093** |
+| FC gross output (HK$mn) | 257,912 | 621,246 | 929,163 | **1,264,231** |
+| FC surplus ratio | 32.8% | 26.2% | 33.2% | **43.0%** |
+| NFC surplus ratio | 18.1% | 18.8% | 18.0% | **16.0%** |
+| FC GOS (% of GDP) | 6.4% | 7.2% | 10.8% | **17.0%** |
+| NFC GOS (% of GDP) | 30.2% | 27.1% | 22.0% | **19.4%** |
+| FC share of corporate GOS | 18% | 21% | 33% | **47%** |
+
+*Source: C&SD 34401/34402 for institutional-sector GOS and output; finance industry figures also match the corresponding reported totals in 34201 for these years. Industry and institutional-sector boundaries are not generally interchangeable. The non-financial figures above are institutional-sector measures. The 2024 financial measure includes imputed intermediation margins; 2019 is used as a benchmark for the accounting sensitivity.*
+
+**Table B6. The mortgage burden, 2004–2024**
+
+| | 2004 | 2019 | 2024 |
+|---|---:|---:|---:|
+| Mortgage stock (HK$mn) | 527,868 | 1,467,988 | **1,870,642** |
+| Mortgage stock / GDP | 40.1% | 51.6% | **58.7%** |
+| Mortgage stock / annual wages | 82.1% | 104.3% | **122.5%** |
+
+*Stock sources: HKMA Residential Mortgage Survey; C&SD 310-34403 (employee compensation) and 310-31002 (GDP).*
+
+The stock-to-compensation ratio uses the year-end mortgage balance and economy-wide annual employee compensation; it is not a measure of the average borrower's debt-service burden. A one-percentage-point rate increase applied to the entire stock at the 2023 ratio corresponds to 1.26 percentage points of aggregate annual compensation.
+
+**Table B7. The labour-importation tables' industry basis**
+
+| Concept in Table XIII | C&SD 34201 sector (API 310-34201) | ADB IOT column (real-estate services input) | Pay index industry (220-19021) |
+|---|---|---|---|
+| Catering | Accommodation and food services | Hotels and restaurants (c22) | Accommodation and food service activities |
+| Retail † | Import/export, wholesale and retail trades (combined) | Retail trade (c21), wholesale separate (c20) | Retail trade; import/export and wholesale trades separate |
+| Transport | Transportation, storage, postal and courier services | Inland, water, air and other transport (c23–c26) | Transportation, storage, postal and courier services |
+| Construction | Construction | Construction (c18) | not covered |
+| Social and personal services | Public administration, social and personal services | Other community, social and personal services (c34) | Social and personal services |
+
+*† Surplus and wages are on the combined trade sector; the real-estate column is retail alone. The ADB columns are supply-industry based; rent shares are the Real estate activities row over the column TOTAL. Sources: C&SD 310-34201; ADB HKG input–output tables; C&SD 220-19021.*
+
+**Table B8. The payroll index, four-quarter averages (nominal, original index base)**
+
+| Industry | 2019 | 2023 | 2025 | 2019–23 | 2019–25 |
+|---|---:|---:|---:|---:|---:|
+| Accommodation and food services | 149.1 | 154.0 | 166.1 | +3.3% | +11.4% |
+| Retail trade | 168.1 | 175.0 | 182.1 | +4.2% | +8.3% |
+| Import/export and wholesale trades | 154.8 | 161.2 | 171.3 | +4.1% | +10.6% |
+| Transportation, storage, postal and courier | 146.6 | 148.4 | 163.9 | +1.3% | +11.9% |
+| Manufacturing | 141.3 | 147.0 | 157.2 | +4.1% | +11.2% |
+| Social and personal services | 134.0 | 147.2 | 153.8 | +9.9% | +14.8% |
+| All selected industry sections | 161.8 | 175.8 | 187.8 | +8.6% | +16.0% |
+
+*Source: C&SD 220-19021, quarterly indices averaged within years; construction is not covered by the index.*
+
+**Table B9. The poverty table's sources compared**
+
+| Concept | Official reports (Commission on Poverty) | Oxfam Hong Kong (2024), on the General Household Survey |
+|---|---|---|
+| Series | 2009–2020; ended with the 2020 report (published November 2021) | 2019–2024 Q1, own tabulation |
+| Poverty line | 50% of median household income by household size, before policy intervention | 50% of median original household income by household size |
+| Headline rate | before intervention 20.6 (2009), 21.4 (2019), 23.6 (2020); after intervention 9.9, 9.2, 7.9 | 18.3 (2019), 20.2 (2024 Q1) |
+| Working poor | persons in working households, before intervention: 12.6% (2009 and 2019) | poor employed persons: 230,900 (2019), 200,600 (2024 Q1) |
+| Elderly poor | – | inactive poor aged 65+: 391,200 (2019), 558,900 (2024 Q1), +42.9% |
+| Distribution | – | top-to-bottom decile ratio of household income medians: 34.3 (2019), 81.9 (2024 Q1) |
+
+*Sources: C&SD, Hong Kong Poverty Situation Report 2020, statistical appendix (Tables A.2.1–A.4.3); Oxfam Hong Kong (2024), tables 1, 4 and 5 and note 27. The two sources use different populations (all residents against household members excluding foreign domestic helpers) and are read side by side, not spliced.*
+
+
+---
+
+**Table B10. Private conversion and all-NFC loan stock: earlier comparison, 2004–2024**
+
+*This retained comparison uses all-NFC loans divided by non-financial corporate surplus, whereas the conversion series uses private investment divided by selected industry surplus. For the revised mapped-loan and selected-industry comparison, see Tables B15–B16 and Table IV in the main text.*
+
+| Year | Conversion (%) | Loans ÷ GOS (λ) | 3M interbank rate, annual average (%) | Interest burden, interbank (i × λ, % of GOS) | Interest burden, best lending rate (% of GOS) | Cell (stock × rate) |
+|---|---:|---:|---:|---:|---:|---|
+| 2004 | 41.3 | 2.15 | 0.46 | 1.0 | 10.8 | low × low |
+| 2005 | 41.1 | 2.19 | 3.06 | 6.7 | 13.4 | low × high |
+| 2006 | 49.7 | 2.23 | 4.27 | 9.5 | 17.6 | low × high |
+| 2007 | 46.2 | 2.51 | 4.33 | 10.9 | 19.0 | middle × high |
+| 2008 | 44.6 | 2.86 | 2.35 | 6.7 | 15.4 | middle × high |
+| 2009 | 47.9 | 3.15 | 0.46 | 1.5 | 15.8 | middle × low |
+| 2010 | 43.2 | 3.28 | 0.25 | 0.8 | 16.4 | middle × low |
+| 2011 | 44.3 | 3.33 | 0.27 | 0.9 | 16.6 | middle × low |
+| 2012 | 50.1 | 3.45 | 0.40 | 1.4 | 17.3 | middle × low |
+| 2013 | 46.0 | 3.79 | 0.38 | 1.4 | 18.9 | middle × low |
+| 2014 | 41.4 | 4.23 | 0.37 | 1.6 | 21.2 | high × low |
+| 2015 | 37.6 | 4.27 | 0.39 | 1.7 | 21.4 | high × low |
+| 2016 | 33.1 | 4.54 | 0.60 | 2.7 | 22.7 | high × middle |
+| 2017 | 32.5 | 4.92 | 0.90 | 4.4 | 24.6 | high × middle |
+| 2018 | 34.3 | 5.05 | 1.75 | 8.8 | 25.4 | high × middle |
+| 2019 | 28.2 | 5.58 | 2.12 | 11.8 | 28.5 | high × high |
+| 2020 | 23.8 | 6.00 | 1.07 | 6.4 | 30.0 | high × middle |
+| 2021 | 21.1 | 5.55 | 0.19 | 1.1 | 27.7 | high × low |
+| 2022 | 15.8 | 5.67 | 2.12 | 12.0 | 28.9 | high × high |
+| 2023 | 22.5 | 6.03 | 4.62 | 27.9 | 34.8 | high × high |
+| 2024 | 21.8 | 5.55 | 4.52 | 25.1 | 32.0 | high × high |
+
+*Notes. Cell boundaries in this historical comparison are: loans at or below 2.5 times gross surplus, above 2.5 to below 4.2, at or above 4.2; the three-month interbank rate below 0.5%, 0.5 to 2, above 2. Loans are the HKMA's loans for use in Hong Kong by economic activity, non-financial industries (old classification to December 2018, new from December 2019); the rate is the HKMA's period-average three-month interbank rate; conversion is the private machinery-and-IP caliber (Table III, Panel B). The stock multiple generally rises over the period, so the high-stock cells are predominantly late years and the matrix cannot separate the stock from the trend. The scatter of conversion on the interest burden has Pearson r = −0.53 (n = 21; −0.52 excluding 2022); the annual series is serially correlated and the coefficient is descriptive only.*
+
+**The full three-by-three matrix (number of years, mean and median conversion, range)**
+
+| | Interbank rate below 0.5 | 0.5 to 2 | Above 2 |
+|---|---|---|---|
+| **λ at or below 2.5** | 1 year: 41.3 | – | 2 years: mean 45.4 (41.1, 49.7) |
+| **λ 2.5 to 4.2** | 5 years: mean 46.3, median 46.0 (43.2 to 50.1) | – | 2 years: mean 45.4 (44.6, 46.2) |
+| **λ at or above 4.2** | 3 years: mean 33.4, median 37.6 (21.1 to 41.4) | 4 years: mean 30.9, median 32.8 (23.8 to 34.3) | 4 years: mean 22.1, median 22.1 (15.8 to 28.2) |
+
+![Figure B1](figs/fig_d10_scatter.png)
+
+*Figure B1. Conversion against the interest burden, 2004–2024, each year labelled. The fitted line is conversion = 41.6 − 0.74 × Q; the vertical line marks Q = 10. Descriptive only (Section 3.5).*
+
+**The three-denominator comparison (comparison with Table III, Panel B)**
+
+| Surplus intensity I<sup>M</sup>/Π, machinery & IP ÷ surplus | 2000 | 2004 | 2014 | 2019 | 2024 |
+|---|---:|---:|---:|---:|---:|
+| Total-economy surplus Π | 31.5% | 26.3% | 23.5% | 15.0% | 12.3% |
+| Non-financial corporations' surplus | 51.6% | 41.0% | 39.6% | 30.9% | 30.5% |
+| Non-financial economy excluding real estate, business services and construction (industry basis) | 60.1% | 45.0% | 45.8% | 34.3% | 30.6% |
+
+*The three denominators use the economy-wide machinery-and-IP numerator; the fall holds on each. The private measure in Table III, Panel B has a private-sector numerator but is not separated by purchasing industry.*
+
+---
+
+**Table B11. The importation event study using the stated specification**
+
+Difference in differences, 23 industries, non-overlapping quarters, two-way fixed effects, 2023 as base year, treatment = the four target industries, standard errors clustered by industry; p-values from a wild cluster bootstrap (Rademacher weights, 3,999 draws).
+
+| Specification | 2024 | 2025 | 2026 |
+|---|---|---|---|
+| A: 2012Q1–2026Q3, Covid years included | −0.33 (p = 0.25) | +0.34 (p = 0.24) | +0.31 (p = 0.38) |
+| B: excluding 2020–22 | −0.18 (p = 0.13) | +0.48 (p = 0.25) | +0.45 (p = 0.26) |
+| C: three treatment industries (catering, retail, foundation), excluding 2020–22 | −0.22 (p < 0.01, negative) | +0.66 (p = 0.49) | +0.36 (p = 0.51) |
+
+*Pre-trends 2013–19 approximately flat. With four treated clusters and a demand shock confounded with treatment, the industry level cannot identify a displacement effect: most reported point estimates are not significant; one negative estimate is significant under specification C. The text does not rely on this design.*
+
+**Table B12. The engine's predictions, with their evidence and results**
+
+| Object | Observable | Prediction | Evidence | Result |
+|---|---|---|---|---|
+| Financialisation | private equipment intensity | falls with high debt and positive rates | peaked in 2012, fell at low rates; nominal decomposition and price sensitivity in B15 | causal mechanism not identified |
+| Financialisation | financial and non-financial surplus shares | opposite directions across the six rate windows | Table VIII (Section 7.1) | passed (verified) |
+| Financialisation | external income against R | external income's share of consumption increments rises | 2.3, 17.2, 64.5% over 2004–14, 2014–19, 2019–24 (2.3, 8.9, 46.3 without reserve-asset income); after 2019 the saving rate rose 5.2 points and R held at 14.5–14.7% of GDP | passed to 2019; after 2019 the offshore income was saved (verified) |
+| Poverty | in-work poverty | does not rise with financialisation | 12.6% of working-household members, 2009 and 2019; all members of poor working households 725,200 to 757,700, employed working-poor individuals 230,900 to 200,600 | passed (verified; gap deepened 79.7%, Yip 2022) |
+| Poverty | elderly poverty | rises | inactive poor aged 65 and over, 391,200 to 558,900 (2019–2024 Q1) | passed (verified, Oxfam 2024) |
+| Poverty | poverty concentrated on the payer | concentrated among private tenants and mortgaged households | incidence of working poverty flat at 12.6% while its depth rose (gap +79.7% before transfers, 2009–19); tenure-specific rates not recomputed from source | not established (payer tested through depth, Yip 2022) |
+| Poverty | household against wage gap | widens; the wage gap unchanged | wage ratio 13 to 13 (1996–2016); top-to-bottom decile ratio on one survey (GHS): 12.7 (1991), 25.5 (2011), 28.4 (2016), 34.3 (2019), 40.3 (2021), 52.7 (2023); matched first quarters 43.3 (2022 Q1) to 81.9 (2024 Q1) | passed (verified, same-survey series; Yip 2022; Oxfam 2024) |
+| Labour | timing of importation | after repricing and the fiscal fall | scheme from 4 September 2023; all-NFC interest ÷ corporate gross surplus, HIBOR 11.8 to 27.9% and HSBC prime 28.5 to 34.8% (2019–23); fiscal base 35.4 to 12.5% | passed (verified) |
+| Labour | target-industry wages | do not lead the all-industry index | pay index 2019–23: catering +3.3, retail +4.2, all +8.6% | passed (verified) |
+| Labour | target-industry profit space | wage share of value added high, or rent share of output high | catering: surplus ÷ output 18.8 to −0.9% and wages ÷ value added 65.8 to 98.4% (2014–24); retail: real-estate services 18.0 (2007) to 25.1% of output | passed in two named industries (verified) |
+| Labour | industry ordering | quotas ordered by industry pressure | ESLS full period to May 2026: catering 43,784 of 109,855 approved (40%), where wages reached 98.4% of value added; retail and the trade block 14,205 | consistent in the named industries (verified) |
+
+*Source: the tables cited in the Evidence column; recomputed from the sources listed in Section 3.1. 'Passed' means the prediction survived its test; 'verified' means recomputed from source; 'carried' means taken from earlier reports without re-verification; 'not established' means the published data do not carry the test; 'not borne out' means the prediction failed; 'consistent with' means the pattern matches the prediction where its conditions hold, and the design cannot separate the parts of the joint action.*
+
+**Table B13. Layers of the retroductive argument**
+
+| Layer | In this paper | Where |
+|---|---|---|
+| Real: structures and powers, observed or not | the four rules and contractual payment obligations | Section 2 |
+| Actual: events and decisions that have happened | the six rate windows; the 2002 housing statement; the September 2023 labour scheme; the 2023–24 stamp-duty cuts | Sections 4 to 8; Appendix B17 |
+| Empirical: what is measured | contractual repricing, estimated charges, investment, wages and fiscal adjustment | Sections 4 to 8; Appendices A and B |
+
+
+**Table B14. Poverty by housing tenure, 2020, after all selected items**
+
+| Tenure | Poor persons (’000) | Share of the poor (%) | Poverty rate, before (%) | Poverty rate, all items (%) |
+|---|---:|---:|---:|---:|
+| Public housing | 73.7 | 13.3 | 35.7 | 3.4 |
+| Owner-occupied | 405.5 | 73.3 | – | 11.1 |
+| Private tenant | 51.4 | 9.3 | 16.0 | 5.5 |
+| Other households | 22.9 | 4.1 | – | – |
+| All households | 553.5 | 100.0 | 23.6 | 7.9 |
+
+*2020. ‘Before’ is the official rate before policy intervention; ‘all items’ is after all selected items. Of the 405,500 poor owner-occupiers, 339,900 live without a mortgage and 65,600 with; 13.3% of all poor persons live in public housing. The non-cash public-housing transfer alone lifted 265,900 persons out of poverty in 2020, 3.8 points of the rate. ‘Other’ covers rent-free and employer-provided housing. Source: Hong Kong Poverty Situation Report 2020, Chart 3.8 and the tenure-group panels (Census and Statistics Department 2021).*
+
+## Data sources (moved from the main text)
+
+**Data sources.** C&SD Tables 130-06604, 220-19001, 220-19021, 310-34201, 310-34401/34402/34403, 310-36202/36203, 310-31002/31003, 310-32031, 315-37001, 315-37021, 315-38011/38021, 655-82101, 645-75001, 220-23005, 340-47011; C&SD web release B1030001 (GDP by expenditure component, Q1 2026) and the Government's 2025 Economic Background and 2026 Prospects, for the 2025 readings of Section 9.2; ASEA report B1080013; HES; ADB HKG input-output tables; HKMA Residential Mortgage Survey; C03 loans for use in Hong Kong by economic sector (non-financial: total less financial concerns, stockbrokers and professional and private individuals) and the interest-rate series; RVD series; MPFA; PWT 11.0 capital detail; all at current prices unless noted.
+
+
+---
+
+**Table B15. Linked non-property business loans: window decomposition and sensitivity**
+
+| Window | 2012–14 | 2017–19 | 2022–24 |
+|---|---:|---:|---:|
+| Mean I/Π<sub>B</sub> (%) | 45.87 | 31.65 | 20.02 |
+| Mean B/Π<sub>B</sub> (%) | 31.76 | 17.48 | −0.62 |
+| Mean Q/Π<sub>B</sub>: HIBOR (%) | 0.93 | 5.01 | 11.65 |
+| Mean Q/Π<sub>B</sub>: HIBOR + 1.5 (%) | 4.56 | 9.68 | 16.29 |
+| Mean Q/Π<sub>B</sub>: HSBC best lending (%) | 12.09 | 15.71 | 17.15 |
+
+| Rate; interest / borrowing / conversion (%) | 2012–14 to 2017–19 | 2017–19 to 2022–24 |
+|---|---:|---:|
+| HIBOR, interest first | 11.35 / 29.42 / 59.23 | 15.80 / 38.40 / 45.80 |
+| HIBOR + 1.5, interest first | 14.88 / 29.74 / 55.37 | 16.58 / 40.23 / 43.19 |
+| HSBC best lending, interest first | 11.36 / 32.34 / 56.30 | 3.76 / 42.76 / 53.48 |
+| HIBOR, borrowing first | 9.85 / 30.92 / 59.23 | 17.69 / 36.51 / 45.80 |
+| HIBOR + 1.5, borrowing first | 13.70 / 30.92 / 55.37 | 20.30 / 36.51 / 43.19 |
+| HSBC best lending, borrowing first | 12.77 / 30.92 / 56.30 | 10.01 / 36.51 / 53.48 |
+
+*Sources: C&SD 310-32031, 310-32032, 310-31003 and 310-34201; HKMA C03 and period-average interest rates. Π<sub>B</sub> is the selected industry surplus; the loan-use mapping is not the same as industry classification. Old-vintage mapped stocks are multiplied by the 2018 new/old overlap ratio 0.96406726. This preserves old-series growth but does not reconstruct historical classifications. B is the difference of consecutive year-end linked nominal stocks and can include valuation and classification changes. Q is annual-average rate times year-end L, not actual paid interest; HSBC prime is not a representative industry rate. Means are arithmetic averages of annual ratios. Define g=I/Π<sub>B</sub>, q=Q/Π<sub>B</sub>, b=B/Π<sub>B</sub> and h=1−q+b. Interest-first contributions to Δln g are Δln(1−q), Δln h−Δln(1−q), and Δln g−Δln h. Borrowing-first substitutes Δln(1+b) for the borrowing term and Δln h−Δln(1+b) for interest. These ordered allocations are not causal effects.*
+
+**Volume sensitivity.** Replace g by real private machinery and IP investment divided by Π<sub>B</sub> deflated with the GDP deflator; retain nominal q and b. For 2012–14 to 2017–19 the interest / borrowing / conversion shares are 24.8 / 64.3 / 10.9% (HIBOR), 32.5 / 65.0 / 2.5% (HIBOR + 1.5), and 24.8 / 70.7 / 4.5% (prime). For 2017–19 to 2022–24 they are 18.0 / 43.7 / 38.3%, 18.9 / 45.8 / 35.3%, and 4.3 / 48.7 / 47.0%, respectively. The result is a purchasing-power sensitivity, not an additive cash-flow account; the GDP deflator is not an industry deflator. Chained-volume components are not additive. Nominal and volume allocations differ materially.
+
+**Demand and 2025 checks.** BIS broad REER annual average (2020=100) rose from 86.74 in 2014 to 97.84 in 2016 (+12.8%). Correlations of annual log changes in REER with log changes in real private equipment and IP investment at k=−2, −1, 0, +1, +2 years are +0.24, +0.03, −0.43, −0.02 and −0.08 (n=17, 18, 19, 18, 17); positive k means REER leads. These are exploratory, not causal. In 2025 the linked mapped loan stock rose from HK$1,871.154bn to HK$1,880.252bn (+0.49%), while private equipment and IP investment volume rose 34.6%. A substantial rise in investment coincided with a small change in mapped lending, without identifying the source of finance. Sources: BIS/FRED RBHKBIS; C&SD 310-32032; HKMA C03.
+
+**Table B16. Change in mapped loan stock by use, 2013–14**
+
+| Loan use | 2013 (HK$bn) | 2014 (HK$bn) | Total (HK$bn) |
+|---|---:|---:|---:|
+| Wholesale and retail | 67.35 | 55.02 | 122.37 |
+| Manufacturing | 32.61 | 49.28 | 81.90 |
+| Transport | 31.65 | 13.07 | 44.72 |
+| Electricity and gas | −16.19 | 62.64 | 46.45 |
+| Information technology | 12.29 | −8.35 | 3.93 |
+| Hotels and catering | 9.41 | 6.42 | 15.83 |
+| Other | 22.33 | 71.20 | 93.54 |
+| Recreation | 0.35 | −0.60 | −0.25 |
+| **Total** | **159.81** | **248.67** | **408.48** |
+
+*Source: HKMA C03, old-vintage annual December observations. Changes are nominal stock differences, not gross new lending, and can include valuation or classification effects. Trade-finance loans and loans for use outside Hong Kong are excluded.*
+
+
+Separate trade-finance stocks were HK$382.58bn, HK$550.21bn and HK$542.62bn in 2012–14. The C03 mapped series excludes trade finance; these totals cannot attribute the mapped increase to trade finance or identify its destination. The linked mapped L/Π<sub>B</sub> ratios were 2.79, 3.33 and 3.04 in 2014, 2019 and 2024. HSBC best-lending annual averages were 5.000%, 5.108% and 5.770%; implied Q/Π<sub>B</sub> was 14.0%, 17.0% and 17.6%.
+
+
+## B17. Institutional decisions register
+
+*Sources: documents cited in the main text; 1998 purchases from Hong Kong Monetary Authority (2009). The mapping onto financial expropriation follows Lapavitsas (2013).*
+
+**Institutional decisions register**
+
+| Year | Decision | Mechanism triggered | Direction on asset prices |
+|---|---|---|---|
+| 1983 | Linked exchange rate established | Rate import | Condition-setting |
+| 1984 | Joint Declaration Annex III: 50-hectare land-grant cap to 1997; land premium divided | Land-supply limit | Supply limit |
+| 1990 | Basic Law: Articles 74 and 106–108 | Fiscal, monetary rules | Condition-setting |
+| 1995 | MPF Ordinance enacted after the 1994 proposal withdrawn | Claims replace provision | Market-making |
+| 1998–99 | Exchange Fund purchases of about HK$118bn of equities, unwound at a profit | Asset-side support | Support |
+| 2002 | Housing Policy Statement: Home Ownership Scheme ends; auctions suspended; loans replace provision | Asset-side support | Support |
+| 2010–13 | Cooling measures on residential purchases; Application List abolished | Asset-price restraint | Restraint |
+| 2021 | Electoral overhaul: functional constituencies 30 of 90 | Representation weighting | Condition-setting |
+| 2021 | Northern Metropolis Development Strategy announced (Policy Address, 6 October) | Land-side spatial fix | Land side |
+| 2023 | Enhanced Supplementary Labour Scheme opens (4 September): exclusions of 26 job categories and unskilled posts suspended two years | Labour-side spatial fix | Cost side |
+| 2023 | Construction scheme: first round, 4,680 quotas, all public works (5 October) | Labour-side spatial fix | Cost side |
+| 2023 | Buyer's and New Residential Stamp Duties halved (October) | Asset-side support | Support |
+| 2024 | All three stamp duties withdrawn (28 February); land-premium estimate cut HK$65.6bn | Asset-side support | Support |
+| 2024 | Large-scale land disposal announced (Policy Address, 16 October) | Land-side spatial fix | Land side |
+| 2025 | Imported Workers Support Scheme (January): protection, not an importation channel | Protection measure | Cost side |
+| 2026 | ESLS review continued (measures of 16 June; Panel paper 22 June): coverage unchanged; catering ratio to three to one | Labour-side fix tightened | Cost side |
+| 2026 | First large-scale land disposal awarded, Hung Shui Kiu (24 August) | Land-side spatial fix | Land side |
+| 2000–24 | Six United States rate windows, three easing and three hiking (Table VIII) | Claims repricing | Exogenous |
+
+**Additional data links.** [HKMA C03 loans by use and vintage](https://apidocs.hkma.gov.hk/documentation/market-data-and-statistics/monthly-statistical-bulletin/banking/loans-by-type-ais/); [HKMA period-average interest rates](https://apidocs.hkma.gov.hk/documentation/market-data-and-statistics/monthly-statistical-bulletin/er-ir/hkd-ir-periodaverage/); [BIS broad real effective exchange rate via FRED](https://fred.stlouisfed.org/data/RBHKBIS); [C&SD real investment table](https://www.censtatd.gov.hk/en/web_table.html?id=310-32032&api_popup=1); [C&SD real GDP table](https://www.censtatd.gov.hk/en/web_table.html?id=310-31003&api_popup=1).
+
+
+## B18. Transport fixed-asset shift-share
+
+The ASEA transport survey covers net additions to fixed assets, including machinery, equipment and buildings. Air transport is excluded in the second comparison to reduce the influence of large, lumpy aircraft purchases. For each window, industry fixed-asset additions and gross surplus are summed over the three years. Let rᵢ denote additions divided by surplus and wᵢ the industry's share of the sample's surplus. The symmetric within component is Σ[(w₀+w₁)/2](r₁−r₀), and the composition component is Σ[(r₀+r₁)/2](w₁−w₀). The components sum to the change in the sample ratio.
+
+| Transport sample | 2012–14 | 2017–19 | Change, pp | Within, pp | Composition, pp |
+|---|---:|---:|---:|---:|---:|
+| All ten sub-industries | 72.09% | 71.76% | −0.33 | −2.51 | +2.18 |
+| Excluding air transport and auxiliary activities | 32.16% | 29.51% | −2.65 | +1.01 | −3.66 |
+
+The ex-air sample is renormalised over the remaining nine sub-industries; their aggregate annual average net additions were HK$10.95bn and HK$10.67bn. The survey's all-fixed-asset measure and the national accounts' private machinery-and-IP investment differ in coverage and valuation. The ASEA measure includes all fixed assets, including land, buildings, equipment and disposals; national-accounts private machinery and IP formation has different institutional, asset and valuation boundaries. The difference in their two window changes (HK$0.283bn versus HK$57.661bn, or an arithmetic 0.49%) is a cross-measure scale comparison, not a contribution or attributable share. The nine-industry sample includes land passenger transport. The within component is an industry-level weighted decomposition and does not establish that every continuing firm maintained investment. Sources: Census and Statistics Department, *Annual Survey of Transport, Storage, Postal and Courier Services*, [2014 report](https://www.censtatd.gov.hk/en/data/stat_report/product/B1080010/att/B10800102014AN14B0100.pdf), [2019 report](https://www.censtatd.gov.hk/en/data/stat_report/product/B1080010/att/B10800102019AN19B0100.pdf), Table 1. Extracted observations and calculation scripts: `asea_testing/transport_full.csv`, `asea_testing/transport_shift.py`, and `差異暴露檢驗/three_tables_calc.py`.
+
+
+
+## B19. Two channels, alternative scales and the 2025–26 comparison
+
+**Definitions.** The private nominal machinery-and-IP/GDP comparison uses private 2014 and 2024 amounts from the manuscript's `revise_compute_2.json` and GDP from `five_step_timeseries.json`: 9.717% and 4.203%, respectively, a fall of 5.514 percentage points. The all-economy figures are 10.748% and 5.899%, a fall of 4.849 points. Neither matches a 6.5-point decline over the same years.
+
+**ICT.** C&SD [ICT services table 3.12](https://www.censtatd.gov.hk/wbr/B1110006/B11100062025AN25/att/en/B11100062025AN25.pdf) gives imports HK$13,730m in 2014 and HK$19,857m in 2023; corresponding GDP values are HK$2,260,005m and HK$2,981,210m. The annual-share difference is 100×(19,857/2,981,210−13,730/2,260,005)=0.05855 percentage points. This is a one-for-one spending thought experiment, not an estimated or maximum substitution effect. 2023 is the latest service year in this ICT source, not 2024; domestic provision is excluded.
+
+**Establishment sector comparison.** C&SD ASEA 2014 and 2019 reports, Table 1 (source PDFs were consulted; extracted working text has since been removed during workspace cleanup), show retail all-fixed-asset net additions of HK$6,530.7m and HK$7,797.4m, and import/export trade HK$8,437.9m and −HK$6,511.4m. Divide each by that year's GDP (HK$2,260,005m and HK$2,845,022m). The trade figure includes disposals and the category includes more than offshore trade; neither establishes a cap on sectoral machinery/IP changes, nor a counterfactual investment loss.
+
+**Rates and investment.** Quarterly means are the unweighted averages of the three HKMA monthly averages, not daily-weighted quarterly averages. The table combines these rates with year-on-year changes in chained-volume investment. Dashes identify observations not independently verified in this revision; consult the original source before use.
+
+| Quarter | 3M HIBOR, % | Private MEIP, % change | Public MEIP, % change | Public construction, % change |
+|---|---:|---:|---:|---:|
+| 2024 Q1 | 4.731 | — | — | — |
+| 2024 Q2 | 4.650 | — | — | — |
+| 2024 Q3 | 4.356 | — | — | — |
+| 2024 Q4 | 4.340 | — | — | — |
+| 2025 Q1 | 3.937 | +16.6 | +7.4 | — |
+| 2025 Q2 | 2.578 | +61.7 | +0.2 | — |
+| 2025 Q3 | 2.466 | +20.6 | +3.2 | — |
+| 2025 Q4 | 3.316 | +43.1 | +1.6 | — |
+| 2026 Q1 | 2.659 | +58.2 | +7.3 | +39.3 |
+| 2026 Q2 | 2.733 | +27.5 | +10.9 | −34.2 |
+| 2026 Q3 | 2.994 | +19.8 | +2.8 | −3.7 |
+
+Rates extracted from `/home/user/uploads/hibor3m_2004_2024.json`. Table: 2024 Q1–Q4 4.731, 4.650, 4.356, 4.340%; 2025 3.937, 2.578, 2.466, 3.316%; 2026 Q1–Q3 2.659, 2.733, 2.994%. The corresponding private real MEIP year-on-year rates in 2025 were +16.6, +61.7, +20.6, +43.1%; in 2026 Q1–Q3 +58.2, +27.5, +19.8%. Public MEIP: 2025 +7.4, +0.2, +3.2, +1.6%; 2026 +7.3, +10.9, +2.8%. [C&SD 310-32032](https://www.censtatd.gov.hk/en/web_table.html?id=310-32032), revision 13 November 2026. Year-on-year comparisons include base effects and overlapping periods. The original Appendix B15 lag correlation concerns REER, not interest. A pre-2025 rate-lag model has not been estimated here; consequently this is not a formal out-of-sample forecast test. Source rates: [HKMA period-average interest rates](https://apidocs.hkma.gov.hk/documentation/market-data-and-statistics/monthly-statistical-bulletin/er-ir/hkd-ir-periodaverage/).
