@@ -1,0 +1,189 @@
+{
+  "2004": {
+    "gross_output": 2743271,
+    "intermediate_consumption": 1457947,
+    "value_added": 1285324,
+    "compensation": 642754,
+    "gross_operating_surplus": 618269,
+    "taxes": 24302,
+    "gos_go_ratio": 22.5,
+    "wage_share_va": 50.0,
+    "gos_share_va": 48.1
+  },
+  "2005": {
+    "gross_output": 2977291,
+    "intermediate_consumption": 1599288,
+    "value_added": 1378002,
+    "compensation": 673188,
+    "gross_operating_surplus": 678399,
+    "taxes": 26415,
+    "gos_go_ratio": 22.8,
+    "wage_share_va": 48.9,
+    "gos_share_va": 49.2
+  },
+  "2006": {
+    "gross_output": 3228823,
+    "intermediate_consumption": 1755287,
+    "value_added": 1473535,
+    "compensation": 711280,
+    "gross_operating_surplus": 732751,
+    "taxes": 29504,
+    "gos_go_ratio": 22.7,
+    "wage_share_va": 48.3,
+    "gos_share_va": 49.7
+  },
+  "2007": {
+    "gross_output": 3560665,
+    "intermediate_consumption": 1954977,
+    "value_added": 1605688,
+    "compensation": 779600,
+    "gross_operating_surplus": 797588,
+    "taxes": 28058,
+    "gos_go_ratio": 22.4,
+    "wage_share_va": 48.6,
+    "gos_share_va": 49.7
+  },
+  "2008": {
+    "gross_output": 3687794,
+    "intermediate_consumption": 1988738,
+    "value_added": 1699056,
+    "compensation": 802656,
+    "gross_operating_surplus": 793760,
+    "taxes": 23597,
+    "gos_go_ratio": 21.5,
+    "wage_share_va": 47.2,
+    "gos_share_va": 46.7
+  },
+  "2009": {
+    "gross_output": 3381493,
+    "intermediate_consumption": 1799669,
+    "value_added": 1581824,
+    "compensation": 819943,
+    "gross_operating_surplus": 738521,
+    "taxes": 23361,
+    "gos_go_ratio": 21.8,
+    "wage_share_va": 51.8,
+    "gos_share_va": 46.7
+  },
+  "2014": {
+    "gross_output": 4381022,
+    "intermediate_consumption": 2175051,
+    "value_added": 2205972,
+    "compensation": 1129222,
+    "gross_operating_surplus": 1033518,
+    "taxes": 43232,
+    "gos_go_ratio": 23.6,
+    "wage_share_va": 51.2,
+    "gos_share_va": 46.9
+  },
+  "2015": {
+    "gross_output": 4463467,
+    "intermediate_consumption": 2138024,
+    "value_added": 2325443,
+    "compensation": 1181077,
+    "gross_operating_surplus": 1095610,
+    "taxes": 48756,
+    "gos_go_ratio": 24.5,
+    "wage_share_va": 50.8,
+    "gos_share_va": 47.1
+  },
+  "2016": {
+    "gross_output": 4575454,
+    "intermediate_consumption": 2157604,
+    "value_added": 2417849,
+    "compensation": 1247966,
+    "gross_operating_surplus": 1123186,
+    "taxes": 46997,
+    "gos_go_ratio": 24.5,
+    "wage_share_va": 51.6,
+    "gos_share_va": 46.5
+  },
+  "2017": {
+    "gross_output": 4798989,
+    "intermediate_consumption": 2247903,
+    "value_added": 2551086,
+    "compensation": 1317123,
+    "gross_operating_surplus": 1186967,
+    "taxes": 46996,
+    "gos_go_ratio": 24.7,
+    "wage_share_va": 51.6,
+    "gos_share_va": 46.5
+  },
+  "2018": {
+    "gross_output": 5071971,
+    "intermediate_consumption": 2371558,
+    "value_added": 2700413,
+    "compensation": 1375378,
+    "gross_operating_surplus": 1278200,
+    "taxes": 46835,
+    "gos_go_ratio": 25.2,
+    "wage_share_va": 50.9,
+    "gos_share_va": 47.3
+  },
+  "2019": {
+    "gross_output": 5084161,
+    "intermediate_consumption": 2343440,
+    "value_added": 2740721,
+    "compensation": 1407592,
+    "gross_operating_surplus": 1286401,
+    "taxes": 46728,
+    "gos_go_ratio": 25.3,
+    "wage_share_va": 51.4,
+    "gos_share_va": 46.9
+  },
+  "2020": {
+    "gross_output": 4785023,
+    "intermediate_consumption": 2224368,
+    "value_added": 2560655,
+    "compensation": 1370915,
+    "gross_operating_surplus": 1269701,
+    "taxes": 79961,
+    "gos_go_ratio": 26.5,
+    "wage_share_va": 53.5,
+    "gos_share_va": 49.6
+  },
+  "2021": {
+    "gross_output": 5205223,
+    "intermediate_consumption": 2459405,
+    "value_added": 2745819,
+    "compensation": 1413932,
+    "gross_operating_surplus": 1298611,
+    "taxes": 33275,
+    "gos_go_ratio": 24.9,
+    "wage_share_va": 51.5,
+    "gos_share_va": 47.3
+  },
+  "2022": {
+    "gross_output": 5298594,
+    "intermediate_consumption": 2563154,
+    "value_added": 2735439,
+    "compensation": 1422680,
+    "gross_operating_surplus": 1323347,
+    "taxes": -10587,
+    "gos_go_ratio": 25.0,
+    "wage_share_va": 52.0,
+    "gos_share_va": 48.4
+  },
+  "2023": {
+    "gross_output": 5551656,
+    "intermediate_consumption": 2637291,
+    "value_added": 2914365,
+    "compensation": 1467822,
+    "gross_operating_surplus": 1395597,
+    "taxes": 50945,
+    "gos_go_ratio": 25.1,
+    "wage_share_va": 50.4,
+    "gos_share_va": 47.9
+  },
+  "2024": {
+    "gross_output": 5924201,
+    "intermediate_consumption": 2810715,
+    "value_added": 3113485,
+    "compensation": 1526763,
+    "gross_operating_surplus": 1526801,
+    "taxes": 59922,
+    "gos_go_ratio": 25.8,
+    "wage_share_va": 49.0,
+    "gos_share_va": 49.0
+  }
+}

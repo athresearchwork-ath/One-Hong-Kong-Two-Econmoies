@@ -1,0 +1,1578 @@
+[
+  {
+    "observation_date": "1994-01-01",
+    "RBHKBIS": 100.31
+  },
+  {
+    "observation_date": "1994-02-01",
+    "RBHKBIS": 100.2
+  },
+  {
+    "observation_date": "1994-03-01",
+    "RBHKBIS": 99.33
+  },
+  {
+    "observation_date": "1994-04-01",
+    "RBHKBIS": 99.84
+  },
+  {
+    "observation_date": "1994-05-01",
+    "RBHKBIS": 99.95
+  },
+  {
+    "observation_date": "1994-06-01",
+    "RBHKBIS": 99.66
+  },
+  {
+    "observation_date": "1994-07-01",
+    "RBHKBIS": 98.35
+  },
+  {
+    "observation_date": "1994-08-01",
+    "RBHKBIS": 98.61
+  },
+  {
+    "observation_date": "1994-09-01",
+    "RBHKBIS": 97.98
+  },
+  {
+    "observation_date": "1994-10-01",
+    "RBHKBIS": 97.96
+  },
+  {
+    "observation_date": "1994-11-01",
+    "RBHKBIS": 98.44
+  },
+  {
+    "observation_date": "1994-12-01",
+    "RBHKBIS": 99.74
+  },
+  {
+    "observation_date": "1995-01-01",
+    "RBHKBIS": 98.93
+  },
+  {
+    "observation_date": "1995-02-01",
+    "RBHKBIS": 98.9
+  },
+  {
+    "observation_date": "1995-03-01",
+    "RBHKBIS": 96.77
+  },
+  {
+    "observation_date": "1995-04-01",
+    "RBHKBIS": 95.2
+  },
+  {
+    "observation_date": "1995-05-01",
+    "RBHKBIS": 95.71
+  },
+  {
+    "observation_date": "1995-06-01",
+    "RBHKBIS": 96.1
+  },
+  {
+    "observation_date": "1995-07-01",
+    "RBHKBIS": 96.73
+  },
+  {
+    "observation_date": "1995-08-01",
+    "RBHKBIS": 99.45
+  },
+  {
+    "observation_date": "1995-09-01",
+    "RBHKBIS": 101.14
+  },
+  {
+    "observation_date": "1995-10-01",
+    "RBHKBIS": 101.16
+  },
+  {
+    "observation_date": "1995-11-01",
+    "RBHKBIS": 101.53
+  },
+  {
+    "observation_date": "1995-12-01",
+    "RBHKBIS": 101.66
+  },
+  {
+    "observation_date": "1996-01-01",
+    "RBHKBIS": 102.21
+  },
+  {
+    "observation_date": "1996-02-01",
+    "RBHKBIS": 102.78
+  },
+  {
+    "observation_date": "1996-03-01",
+    "RBHKBIS": 102.92
+  },
+  {
+    "observation_date": "1996-04-01",
+    "RBHKBIS": 103.87
+  },
+  {
+    "observation_date": "1996-05-01",
+    "RBHKBIS": 104.05
+  },
+  {
+    "observation_date": "1996-06-01",
+    "RBHKBIS": 105.08
+  },
+  {
+    "observation_date": "1996-07-01",
+    "RBHKBIS": 105.19
+  },
+  {
+    "observation_date": "1996-08-01",
+    "RBHKBIS": 104.43
+  },
+  {
+    "observation_date": "1996-09-01",
+    "RBHKBIS": 105.65
+  },
+  {
+    "observation_date": "1996-10-01",
+    "RBHKBIS": 106.9
+  },
+  {
+    "observation_date": "1996-11-01",
+    "RBHKBIS": 106.85
+  },
+  {
+    "observation_date": "1996-12-01",
+    "RBHKBIS": 107.9
+  },
+  {
+    "observation_date": "1997-01-01",
+    "RBHKBIS": 108.58
+  },
+  {
+    "observation_date": "1997-02-01",
+    "RBHKBIS": 110.9
+  },
+  {
+    "observation_date": "1997-03-01",
+    "RBHKBIS": 111.71
+  },
+  {
+    "observation_date": "1997-04-01",
+    "RBHKBIS": 112.63
+  },
+  {
+    "observation_date": "1997-05-01",
+    "RBHKBIS": 112.09
+  },
+  {
+    "observation_date": "1997-06-01",
+    "RBHKBIS": 111.82
+  },
+  {
+    "observation_date": "1997-07-01",
+    "RBHKBIS": 114.35
+  },
+  {
+    "observation_date": "1997-08-01",
+    "RBHKBIS": 116.44
+  },
+  {
+    "observation_date": "1997-09-01",
+    "RBHKBIS": 117.07
+  },
+  {
+    "observation_date": "1997-10-01",
+    "RBHKBIS": 118.96
+  },
+  {
+    "observation_date": "1997-11-01",
+    "RBHKBIS": 121.15
+  },
+  {
+    "observation_date": "1997-12-01",
+    "RBHKBIS": 127.01
+  },
+  {
+    "observation_date": "1998-01-01",
+    "RBHKBIS": 131.45
+  },
+  {
+    "observation_date": "1998-02-01",
+    "RBHKBIS": 128.5
+  },
+  {
+    "observation_date": "1998-03-01",
+    "RBHKBIS": 127.78
+  },
+  {
+    "observation_date": "1998-04-01",
+    "RBHKBIS": 127.92
+  },
+  {
+    "observation_date": "1998-05-01",
+    "RBHKBIS": 129.11
+  },
+  {
+    "observation_date": "1998-06-01",
+    "RBHKBIS": 131.66
+  },
+  {
+    "observation_date": "1998-07-01",
+    "RBHKBIS": 131.79
+  },
+  {
+    "observation_date": "1998-08-01",
+    "RBHKBIS": 132.2
+  },
+  {
+    "observation_date": "1998-09-01",
+    "RBHKBIS": 129.03
+  },
+  {
+    "observation_date": "1998-10-01",
+    "RBHKBIS": 122.31
+  },
+  {
+    "observation_date": "1998-11-01",
+    "RBHKBIS": 121.26
+  },
+  {
+    "observation_date": "1998-12-01",
+    "RBHKBIS": 119.64
+  },
+  {
+    "observation_date": "1999-01-01",
+    "RBHKBIS": 120.14
+  },
+  {
+    "observation_date": "1999-02-01",
+    "RBHKBIS": 120.91
+  },
+  {
+    "observation_date": "1999-03-01",
+    "RBHKBIS": 121.81
+  },
+  {
+    "observation_date": "1999-04-01",
+    "RBHKBIS": 121.12
+  },
+  {
+    "observation_date": "1999-05-01",
+    "RBHKBIS": 121.17
+  },
+  {
+    "observation_date": "1999-06-01",
+    "RBHKBIS": 121.08
+  },
+  {
+    "observation_date": "1999-07-01",
+    "RBHKBIS": 119.26
+  },
+  {
+    "observation_date": "1999-08-01",
+    "RBHKBIS": 116.64
+  },
+  {
+    "observation_date": "1999-09-01",
+    "RBHKBIS": 115.97
+  },
+  {
+    "observation_date": "1999-10-01",
+    "RBHKBIS": 115.26
+  },
+  {
+    "observation_date": "1999-11-01",
+    "RBHKBIS": 114.82
+  },
+  {
+    "observation_date": "1999-12-01",
+    "RBHKBIS": 114.27
+  },
+  {
+    "observation_date": "2000-01-01",
+    "RBHKBIS": 112.8
+  },
+  {
+    "observation_date": "2000-02-01",
+    "RBHKBIS": 113.41
+  },
+  {
+    "observation_date": "2000-03-01",
+    "RBHKBIS": 113.28
+  },
+  {
+    "observation_date": "2000-04-01",
+    "RBHKBIS": 113.33
+  },
+  {
+    "observation_date": "2000-05-01",
+    "RBHKBIS": 115.16
+  },
+  {
+    "observation_date": "2000-06-01",
+    "RBHKBIS": 113.47
+  },
+  {
+    "observation_date": "2000-07-01",
+    "RBHKBIS": 113.95
+  },
+  {
+    "observation_date": "2000-08-01",
+    "RBHKBIS": 114.05
+  },
+  {
+    "observation_date": "2000-09-01",
+    "RBHKBIS": 114.42
+  },
+  {
+    "observation_date": "2000-10-01",
+    "RBHKBIS": 115.54
+  },
+  {
+    "observation_date": "2000-11-01",
+    "RBHKBIS": 116.04
+  },
+  {
+    "observation_date": "2000-12-01",
+    "RBHKBIS": 115.32
+  },
+  {
+    "observation_date": "2001-01-01",
+    "RBHKBIS": 114.62
+  },
+  {
+    "observation_date": "2001-02-01",
+    "RBHKBIS": 113.65
+  },
+  {
+    "observation_date": "2001-03-01",
+    "RBHKBIS": 115.34
+  },
+  {
+    "observation_date": "2001-04-01",
+    "RBHKBIS": 116.97
+  },
+  {
+    "observation_date": "2001-05-01",
+    "RBHKBIS": 116.62
+  },
+  {
+    "observation_date": "2001-06-01",
+    "RBHKBIS": 117.65
+  },
+  {
+    "observation_date": "2001-07-01",
+    "RBHKBIS": 118.28
+  },
+  {
+    "observation_date": "2001-08-01",
+    "RBHKBIS": 115.41
+  },
+  {
+    "observation_date": "2001-09-01",
+    "RBHKBIS": 114.81
+  },
+  {
+    "observation_date": "2001-10-01",
+    "RBHKBIS": 115.54
+  },
+  {
+    "observation_date": "2001-11-01",
+    "RBHKBIS": 116.21
+  },
+  {
+    "observation_date": "2001-12-01",
+    "RBHKBIS": 113.94
+  },
+  {
+    "observation_date": "2002-01-01",
+    "RBHKBIS": 114.88
+  },
+  {
+    "observation_date": "2002-02-01",
+    "RBHKBIS": 115.22
+  },
+  {
+    "observation_date": "2002-03-01",
+    "RBHKBIS": 114.94
+  },
+  {
+    "observation_date": "2002-04-01",
+    "RBHKBIS": 113.73
+  },
+  {
+    "observation_date": "2002-05-01",
+    "RBHKBIS": 111.12
+  },
+  {
+    "observation_date": "2002-06-01",
+    "RBHKBIS": 109.35
+  },
+  {
+    "observation_date": "2002-07-01",
+    "RBHKBIS": 107.42
+  },
+  {
+    "observation_date": "2002-08-01",
+    "RBHKBIS": 107.74
+  },
+  {
+    "observation_date": "2002-09-01",
+    "RBHKBIS": 107.44
+  },
+  {
+    "observation_date": "2002-10-01",
+    "RBHKBIS": 108.17
+  },
+  {
+    "observation_date": "2002-11-01",
+    "RBHKBIS": 106.75
+  },
+  {
+    "observation_date": "2002-12-01",
+    "RBHKBIS": 105.93
+  },
+  {
+    "observation_date": "2003-01-01",
+    "RBHKBIS": 103.88
+  },
+  {
+    "observation_date": "2003-02-01",
+    "RBHKBIS": 103.28
+  },
+  {
+    "observation_date": "2003-03-01",
+    "RBHKBIS": 103.27
+  },
+  {
+    "observation_date": "2003-04-01",
+    "RBHKBIS": 103.27
+  },
+  {
+    "observation_date": "2003-05-01",
+    "RBHKBIS": 100.03
+  },
+  {
+    "observation_date": "2003-06-01",
+    "RBHKBIS": 99.18
+  },
+  {
+    "observation_date": "2003-07-01",
+    "RBHKBIS": 98.92
+  },
+  {
+    "observation_date": "2003-08-01",
+    "RBHKBIS": 99.0
+  },
+  {
+    "observation_date": "2003-09-01",
+    "RBHKBIS": 98.04
+  },
+  {
+    "observation_date": "2003-10-01",
+    "RBHKBIS": 97.32
+  },
+  {
+    "observation_date": "2003-11-01",
+    "RBHKBIS": 97.18
+  },
+  {
+    "observation_date": "2003-12-01",
+    "RBHKBIS": 95.97
+  },
+  {
+    "observation_date": "2004-01-01",
+    "RBHKBIS": 94.91
+  },
+  {
+    "observation_date": "2004-02-01",
+    "RBHKBIS": 93.62
+  },
+  {
+    "observation_date": "2004-03-01",
+    "RBHKBIS": 94.22
+  },
+  {
+    "observation_date": "2004-04-01",
+    "RBHKBIS": 94.21
+  },
+  {
+    "observation_date": "2004-05-01",
+    "RBHKBIS": 94.85
+  },
+  {
+    "observation_date": "2004-06-01",
+    "RBHKBIS": 94.11
+  },
+  {
+    "observation_date": "2004-07-01",
+    "RBHKBIS": 93.7
+  },
+  {
+    "observation_date": "2004-08-01",
+    "RBHKBIS": 93.79
+  },
+  {
+    "observation_date": "2004-09-01",
+    "RBHKBIS": 93.36
+  },
+  {
+    "observation_date": "2004-10-01",
+    "RBHKBIS": 92.86
+  },
+  {
+    "observation_date": "2004-11-01",
+    "RBHKBIS": 91.08
+  },
+  {
+    "observation_date": "2004-12-01",
+    "RBHKBIS": 89.9
+  },
+  {
+    "observation_date": "2005-01-01",
+    "RBHKBIS": 89.64
+  },
+  {
+    "observation_date": "2005-02-01",
+    "RBHKBIS": 89.45
+  },
+  {
+    "observation_date": "2005-03-01",
+    "RBHKBIS": 88.84
+  },
+  {
+    "observation_date": "2005-04-01",
+    "RBHKBIS": 89.68
+  },
+  {
+    "observation_date": "2005-05-01",
+    "RBHKBIS": 89.78
+  },
+  {
+    "observation_date": "2005-06-01",
+    "RBHKBIS": 91.72
+  },
+  {
+    "observation_date": "2005-07-01",
+    "RBHKBIS": 92.45
+  },
+  {
+    "observation_date": "2005-08-01",
+    "RBHKBIS": 91.06
+  },
+  {
+    "observation_date": "2005-09-01",
+    "RBHKBIS": 91.52
+  },
+  {
+    "observation_date": "2005-10-01",
+    "RBHKBIS": 92.58
+  },
+  {
+    "observation_date": "2005-11-01",
+    "RBHKBIS": 93.8
+  },
+  {
+    "observation_date": "2005-12-01",
+    "RBHKBIS": 93.36
+  },
+  {
+    "observation_date": "2006-01-01",
+    "RBHKBIS": 91.55
+  },
+  {
+    "observation_date": "2006-02-01",
+    "RBHKBIS": 91.35
+  },
+  {
+    "observation_date": "2006-03-01",
+    "RBHKBIS": 91.45
+  },
+  {
+    "observation_date": "2006-04-01",
+    "RBHKBIS": 90.54
+  },
+  {
+    "observation_date": "2006-05-01",
+    "RBHKBIS": 88.79
+  },
+  {
+    "observation_date": "2006-06-01",
+    "RBHKBIS": 89.99
+  },
+  {
+    "observation_date": "2006-07-01",
+    "RBHKBIS": 89.92
+  },
+  {
+    "observation_date": "2006-08-01",
+    "RBHKBIS": 89.34
+  },
+  {
+    "observation_date": "2006-09-01",
+    "RBHKBIS": 89.49
+  },
+  {
+    "observation_date": "2006-10-01",
+    "RBHKBIS": 89.79
+  },
+  {
+    "observation_date": "2006-11-01",
+    "RBHKBIS": 88.91
+  },
+  {
+    "observation_date": "2006-12-01",
+    "RBHKBIS": 88.03
+  },
+  {
+    "observation_date": "2007-01-01",
+    "RBHKBIS": 88.33
+  },
+  {
+    "observation_date": "2007-02-01",
+    "RBHKBIS": 86.4
+  },
+  {
+    "observation_date": "2007-03-01",
+    "RBHKBIS": 87.14
+  },
+  {
+    "observation_date": "2007-04-01",
+    "RBHKBIS": 85.46
+  },
+  {
+    "observation_date": "2007-05-01",
+    "RBHKBIS": 85.08
+  },
+  {
+    "observation_date": "2007-06-01",
+    "RBHKBIS": 85.66
+  },
+  {
+    "observation_date": "2007-07-01",
+    "RBHKBIS": 84.67
+  },
+  {
+    "observation_date": "2007-08-01",
+    "RBHKBIS": 84.51
+  },
+  {
+    "observation_date": "2007-09-01",
+    "RBHKBIS": 84.06
+  },
+  {
+    "observation_date": "2007-10-01",
+    "RBHKBIS": 83.97
+  },
+  {
+    "observation_date": "2007-11-01",
+    "RBHKBIS": 82.43
+  },
+  {
+    "observation_date": "2007-12-01",
+    "RBHKBIS": 82.76
+  },
+  {
+    "observation_date": "2008-01-01",
+    "RBHKBIS": 80.78
+  },
+  {
+    "observation_date": "2008-02-01",
+    "RBHKBIS": 81.01
+  },
+  {
+    "observation_date": "2008-03-01",
+    "RBHKBIS": 79.12
+  },
+  {
+    "observation_date": "2008-04-01",
+    "RBHKBIS": 78.63
+  },
+  {
+    "observation_date": "2008-05-01",
+    "RBHKBIS": 79.23
+  },
+  {
+    "observation_date": "2008-06-01",
+    "RBHKBIS": 79.59
+  },
+  {
+    "observation_date": "2008-07-01",
+    "RBHKBIS": 79.4
+  },
+  {
+    "observation_date": "2008-08-01",
+    "RBHKBIS": 80.07
+  },
+  {
+    "observation_date": "2008-09-01",
+    "RBHKBIS": 80.79
+  },
+  {
+    "observation_date": "2008-10-01",
+    "RBHKBIS": 83.88
+  },
+  {
+    "observation_date": "2008-11-01",
+    "RBHKBIS": 87.56
+  },
+  {
+    "observation_date": "2008-12-01",
+    "RBHKBIS": 86.29
+  },
+  {
+    "observation_date": "2009-01-01",
+    "RBHKBIS": 86.69
+  },
+  {
+    "observation_date": "2009-02-01",
+    "RBHKBIS": 87.82
+  },
+  {
+    "observation_date": "2009-03-01",
+    "RBHKBIS": 88.88
+  },
+  {
+    "observation_date": "2009-04-01",
+    "RBHKBIS": 87.46
+  },
+  {
+    "observation_date": "2009-05-01",
+    "RBHKBIS": 85.03
+  },
+  {
+    "observation_date": "2009-06-01",
+    "RBHKBIS": 84.04
+  },
+  {
+    "observation_date": "2009-07-01",
+    "RBHKBIS": 83.73
+  },
+  {
+    "observation_date": "2009-08-01",
+    "RBHKBIS": 81.54
+  },
+  {
+    "observation_date": "2009-09-01",
+    "RBHKBIS": 81.01
+  },
+  {
+    "observation_date": "2009-10-01",
+    "RBHKBIS": 81.76
+  },
+  {
+    "observation_date": "2009-11-01",
+    "RBHKBIS": 81.14
+  },
+  {
+    "observation_date": "2009-12-01",
+    "RBHKBIS": 81.87
+  },
+  {
+    "observation_date": "2010-01-01",
+    "RBHKBIS": 81.65
+  },
+  {
+    "observation_date": "2010-02-01",
+    "RBHKBIS": 83.0
+  },
+  {
+    "observation_date": "2010-03-01",
+    "RBHKBIS": 82.25
+  },
+  {
+    "observation_date": "2010-04-01",
+    "RBHKBIS": 81.94
+  },
+  {
+    "observation_date": "2010-05-01",
+    "RBHKBIS": 83.1
+  },
+  {
+    "observation_date": "2010-06-01",
+    "RBHKBIS": 83.94
+  },
+  {
+    "observation_date": "2010-07-01",
+    "RBHKBIS": 80.43
+  },
+  {
+    "observation_date": "2010-08-01",
+    "RBHKBIS": 79.32
+  },
+  {
+    "observation_date": "2010-09-01",
+    "RBHKBIS": 78.5
+  },
+  {
+    "observation_date": "2010-10-01",
+    "RBHKBIS": 78.47
+  },
+  {
+    "observation_date": "2010-11-01",
+    "RBHKBIS": 78.81
+  },
+  {
+    "observation_date": "2010-12-01",
+    "RBHKBIS": 79.37
+  },
+  {
+    "observation_date": "2011-01-01",
+    "RBHKBIS": 78.69
+  },
+  {
+    "observation_date": "2011-02-01",
+    "RBHKBIS": 78.6
+  },
+  {
+    "observation_date": "2011-03-01",
+    "RBHKBIS": 77.79
+  },
+  {
+    "observation_date": "2011-04-01",
+    "RBHKBIS": 77.26
+  },
+  {
+    "observation_date": "2011-05-01",
+    "RBHKBIS": 77.1
+  },
+  {
+    "observation_date": "2011-06-01",
+    "RBHKBIS": 77.02
+  },
+  {
+    "observation_date": "2011-07-01",
+    "RBHKBIS": 76.23
+  },
+  {
+    "observation_date": "2011-08-01",
+    "RBHKBIS": 73.84
+  },
+  {
+    "observation_date": "2011-09-01",
+    "RBHKBIS": 75.83
+  },
+  {
+    "observation_date": "2011-10-01",
+    "RBHKBIS": 78.8
+  },
+  {
+    "observation_date": "2011-11-01",
+    "RBHKBIS": 79.38
+  },
+  {
+    "observation_date": "2011-12-01",
+    "RBHKBIS": 80.56
+  },
+  {
+    "observation_date": "2012-01-01",
+    "RBHKBIS": 80.83
+  },
+  {
+    "observation_date": "2012-02-01",
+    "RBHKBIS": 79.57
+  },
+  {
+    "observation_date": "2012-03-01",
+    "RBHKBIS": 80.07
+  },
+  {
+    "observation_date": "2012-04-01",
+    "RBHKBIS": 80.17
+  },
+  {
+    "observation_date": "2012-05-01",
+    "RBHKBIS": 81.09
+  },
+  {
+    "observation_date": "2012-06-01",
+    "RBHKBIS": 82.15
+  },
+  {
+    "observation_date": "2012-07-01",
+    "RBHKBIS": 80.45
+  },
+  {
+    "observation_date": "2012-08-01",
+    "RBHKBIS": 79.67
+  },
+  {
+    "observation_date": "2012-09-01",
+    "RBHKBIS": 78.59
+  },
+  {
+    "observation_date": "2012-10-01",
+    "RBHKBIS": 80.47
+  },
+  {
+    "observation_date": "2012-11-01",
+    "RBHKBIS": 81.09
+  },
+  {
+    "observation_date": "2012-12-01",
+    "RBHKBIS": 80.94
+  },
+  {
+    "observation_date": "2013-01-01",
+    "RBHKBIS": 81.36
+  },
+  {
+    "observation_date": "2013-02-01",
+    "RBHKBIS": 82.16
+  },
+  {
+    "observation_date": "2013-03-01",
+    "RBHKBIS": 82.78
+  },
+  {
+    "observation_date": "2013-04-01",
+    "RBHKBIS": 83.5
+  },
+  {
+    "observation_date": "2013-05-01",
+    "RBHKBIS": 83.86
+  },
+  {
+    "observation_date": "2013-06-01",
+    "RBHKBIS": 83.89
+  },
+  {
+    "observation_date": "2013-07-01",
+    "RBHKBIS": 84.94
+  },
+  {
+    "observation_date": "2013-08-01",
+    "RBHKBIS": 82.66
+  },
+  {
+    "observation_date": "2013-09-01",
+    "RBHKBIS": 82.51
+  },
+  {
+    "observation_date": "2013-10-01",
+    "RBHKBIS": 83.64
+  },
+  {
+    "observation_date": "2013-11-01",
+    "RBHKBIS": 84.25
+  },
+  {
+    "observation_date": "2013-12-01",
+    "RBHKBIS": 84.71
+  },
+  {
+    "observation_date": "2014-01-01",
+    "RBHKBIS": 85.38
+  },
+  {
+    "observation_date": "2014-02-01",
+    "RBHKBIS": 85.3
+  },
+  {
+    "observation_date": "2014-03-01",
+    "RBHKBIS": 85.01
+  },
+  {
+    "observation_date": "2014-04-01",
+    "RBHKBIS": 85.47
+  },
+  {
+    "observation_date": "2014-05-01",
+    "RBHKBIS": 85.06
+  },
+  {
+    "observation_date": "2014-06-01",
+    "RBHKBIS": 85.27
+  },
+  {
+    "observation_date": "2014-07-01",
+    "RBHKBIS": 85.77
+  },
+  {
+    "observation_date": "2014-08-01",
+    "RBHKBIS": 84.01
+  },
+  {
+    "observation_date": "2014-09-01",
+    "RBHKBIS": 87.36
+  },
+  {
+    "observation_date": "2014-10-01",
+    "RBHKBIS": 89.22
+  },
+  {
+    "observation_date": "2014-11-01",
+    "RBHKBIS": 90.81
+  },
+  {
+    "observation_date": "2014-12-01",
+    "RBHKBIS": 92.23
+  },
+  {
+    "observation_date": "2015-01-01",
+    "RBHKBIS": 93.03
+  },
+  {
+    "observation_date": "2015-02-01",
+    "RBHKBIS": 93.94
+  },
+  {
+    "observation_date": "2015-03-01",
+    "RBHKBIS": 94.61
+  },
+  {
+    "observation_date": "2015-04-01",
+    "RBHKBIS": 93.26
+  },
+  {
+    "observation_date": "2015-05-01",
+    "RBHKBIS": 92.55
+  },
+  {
+    "observation_date": "2015-06-01",
+    "RBHKBIS": 92.94
+  },
+  {
+    "observation_date": "2015-07-01",
+    "RBHKBIS": 94.16
+  },
+  {
+    "observation_date": "2015-08-01",
+    "RBHKBIS": 93.56
+  },
+  {
+    "observation_date": "2015-09-01",
+    "RBHKBIS": 95.9
+  },
+  {
+    "observation_date": "2015-10-01",
+    "RBHKBIS": 96.83
+  },
+  {
+    "observation_date": "2015-11-01",
+    "RBHKBIS": 98.4
+  },
+  {
+    "observation_date": "2015-12-01",
+    "RBHKBIS": 98.88
+  },
+  {
+    "observation_date": "2016-01-01",
+    "RBHKBIS": 99.63
+  },
+  {
+    "observation_date": "2016-02-01",
+    "RBHKBIS": 99.39
+  },
+  {
+    "observation_date": "2016-03-01",
+    "RBHKBIS": 98.04
+  },
+  {
+    "observation_date": "2016-04-01",
+    "RBHKBIS": 95.82
+  },
+  {
+    "observation_date": "2016-05-01",
+    "RBHKBIS": 96.36
+  },
+  {
+    "observation_date": "2016-06-01",
+    "RBHKBIS": 96.04
+  },
+  {
+    "observation_date": "2016-07-01",
+    "RBHKBIS": 97.01
+  },
+  {
+    "observation_date": "2016-08-01",
+    "RBHKBIS": 96.28
+  },
+  {
+    "observation_date": "2016-09-01",
+    "RBHKBIS": 96.64
+  },
+  {
+    "observation_date": "2016-10-01",
+    "RBHKBIS": 97.78
+  },
+  {
+    "observation_date": "2016-11-01",
+    "RBHKBIS": 99.67
+  },
+  {
+    "observation_date": "2016-12-01",
+    "RBHKBIS": 101.39
+  },
+  {
+    "observation_date": "2017-01-01",
+    "RBHKBIS": 100.81
+  },
+  {
+    "observation_date": "2017-02-01",
+    "RBHKBIS": 99.64
+  },
+  {
+    "observation_date": "2017-03-01",
+    "RBHKBIS": 99.6
+  },
+  {
+    "observation_date": "2017-04-01",
+    "RBHKBIS": 99.37
+  },
+  {
+    "observation_date": "2017-05-01",
+    "RBHKBIS": 98.54
+  },
+  {
+    "observation_date": "2017-06-01",
+    "RBHKBIS": 97.5
+  },
+  {
+    "observation_date": "2017-07-01",
+    "RBHKBIS": 97.27
+  },
+  {
+    "observation_date": "2017-08-01",
+    "RBHKBIS": 95.89
+  },
+  {
+    "observation_date": "2017-09-01",
+    "RBHKBIS": 94.77
+  },
+  {
+    "observation_date": "2017-10-01",
+    "RBHKBIS": 95.95
+  },
+  {
+    "observation_date": "2017-11-01",
+    "RBHKBIS": 95.89
+  },
+  {
+    "observation_date": "2017-12-01",
+    "RBHKBIS": 95.33
+  },
+  {
+    "observation_date": "2018-01-01",
+    "RBHKBIS": 93.34
+  },
+  {
+    "observation_date": "2018-02-01",
+    "RBHKBIS": 93.14
+  },
+  {
+    "observation_date": "2018-03-01",
+    "RBHKBIS": 92.8
+  },
+  {
+    "observation_date": "2018-04-01",
+    "RBHKBIS": 92.88
+  },
+  {
+    "observation_date": "2018-05-01",
+    "RBHKBIS": 94.41
+  },
+  {
+    "observation_date": "2018-06-01",
+    "RBHKBIS": 95.42
+  },
+  {
+    "observation_date": "2018-07-01",
+    "RBHKBIS": 97.19
+  },
+  {
+    "observation_date": "2018-08-01",
+    "RBHKBIS": 97.77
+  },
+  {
+    "observation_date": "2018-09-01",
+    "RBHKBIS": 98.01
+  },
+  {
+    "observation_date": "2018-10-01",
+    "RBHKBIS": 98.94
+  },
+  {
+    "observation_date": "2018-11-01",
+    "RBHKBIS": 99.36
+  },
+  {
+    "observation_date": "2018-12-01",
+    "RBHKBIS": 99.43
+  },
+  {
+    "observation_date": "2019-01-01",
+    "RBHKBIS": 98.26
+  },
+  {
+    "observation_date": "2019-02-01",
+    "RBHKBIS": 98.31
+  },
+  {
+    "observation_date": "2019-03-01",
+    "RBHKBIS": 97.85
+  },
+  {
+    "observation_date": "2019-04-01",
+    "RBHKBIS": 98.64
+  },
+  {
+    "observation_date": "2019-05-01",
+    "RBHKBIS": 99.17
+  },
+  {
+    "observation_date": "2019-06-01",
+    "RBHKBIS": 99.79
+  },
+  {
+    "observation_date": "2019-07-01",
+    "RBHKBIS": 100.16
+  },
+  {
+    "observation_date": "2019-08-01",
+    "RBHKBIS": 101.09
+  },
+  {
+    "observation_date": "2019-09-01",
+    "RBHKBIS": 101.19
+  },
+  {
+    "observation_date": "2019-10-01",
+    "RBHKBIS": 100.72
+  },
+  {
+    "observation_date": "2019-11-01",
+    "RBHKBIS": 100.26
+  },
+  {
+    "observation_date": "2019-12-01",
+    "RBHKBIS": 100.11
+  },
+  {
+    "observation_date": "2020-01-01",
+    "RBHKBIS": 97.69
+  },
+  {
+    "observation_date": "2020-02-01",
+    "RBHKBIS": 101.35
+  },
+  {
+    "observation_date": "2020-03-01",
+    "RBHKBIS": 102.94
+  },
+  {
+    "observation_date": "2020-04-01",
+    "RBHKBIS": 104.66
+  },
+  {
+    "observation_date": "2020-05-01",
+    "RBHKBIS": 104.2
+  },
+  {
+    "observation_date": "2020-06-01",
+    "RBHKBIS": 102.61
+  },
+  {
+    "observation_date": "2020-07-01",
+    "RBHKBIS": 98.66
+  },
+  {
+    "observation_date": "2020-08-01",
+    "RBHKBIS": 99.31
+  },
+  {
+    "observation_date": "2020-09-01",
+    "RBHKBIS": 96.56
+  },
+  {
+    "observation_date": "2020-10-01",
+    "RBHKBIS": 98.55
+  },
+  {
+    "observation_date": "2020-11-01",
+    "RBHKBIS": 97.71
+  },
+  {
+    "observation_date": "2020-12-01",
+    "RBHKBIS": 95.75
+  },
+  {
+    "observation_date": "2021-01-01",
+    "RBHKBIS": 96.21
+  },
+  {
+    "observation_date": "2021-02-01",
+    "RBHKBIS": 96.12
+  },
+  {
+    "observation_date": "2021-03-01",
+    "RBHKBIS": 97.15
+  },
+  {
+    "observation_date": "2021-04-01",
+    "RBHKBIS": 97.37
+  },
+  {
+    "observation_date": "2021-05-01",
+    "RBHKBIS": 96.07
+  },
+  {
+    "observation_date": "2021-06-01",
+    "RBHKBIS": 95.95
+  },
+  {
+    "observation_date": "2021-07-01",
+    "RBHKBIS": 97.04
+  },
+  {
+    "observation_date": "2021-08-01",
+    "RBHKBIS": 96.69
+  },
+  {
+    "observation_date": "2021-09-01",
+    "RBHKBIS": 94.05
+  },
+  {
+    "observation_date": "2021-10-01",
+    "RBHKBIS": 96.57
+  },
+  {
+    "observation_date": "2021-11-01",
+    "RBHKBIS": 96.35
+  },
+  {
+    "observation_date": "2021-12-01",
+    "RBHKBIS": 96.39
+  },
+  {
+    "observation_date": "2022-01-01",
+    "RBHKBIS": 96.05
+  },
+  {
+    "observation_date": "2022-02-01",
+    "RBHKBIS": 95.77
+  },
+  {
+    "observation_date": "2022-03-01",
+    "RBHKBIS": 95.94
+  },
+  {
+    "observation_date": "2022-04-01",
+    "RBHKBIS": 96.15
+  },
+  {
+    "observation_date": "2022-05-01",
+    "RBHKBIS": 97.46
+  },
+  {
+    "observation_date": "2022-06-01",
+    "RBHKBIS": 97.5
+  },
+  {
+    "observation_date": "2022-07-01",
+    "RBHKBIS": 98.55
+  },
+  {
+    "observation_date": "2022-08-01",
+    "RBHKBIS": 98.19
+  },
+  {
+    "observation_date": "2022-09-01",
+    "RBHKBIS": 100.3
+  },
+  {
+    "observation_date": "2022-10-01",
+    "RBHKBIS": 101.99
+  },
+  {
+    "observation_date": "2022-11-01",
+    "RBHKBIS": 100.22
+  },
+  {
+    "observation_date": "2022-12-01",
+    "RBHKBIS": 98.31
+  },
+  {
+    "observation_date": "2023-01-01",
+    "RBHKBIS": 96.45
+  },
+  {
+    "observation_date": "2023-02-01",
+    "RBHKBIS": 96.4
+  },
+  {
+    "observation_date": "2023-03-01",
+    "RBHKBIS": 96.83
+  },
+  {
+    "observation_date": "2023-04-01",
+    "RBHKBIS": 96.27
+  },
+  {
+    "observation_date": "2023-05-01",
+    "RBHKBIS": 96.95
+  },
+  {
+    "observation_date": "2023-06-01",
+    "RBHKBIS": 98.0
+  },
+  {
+    "observation_date": "2023-07-01",
+    "RBHKBIS": 97.37
+  },
+  {
+    "observation_date": "2023-08-01",
+    "RBHKBIS": 97.86
+  },
+  {
+    "observation_date": "2023-09-01",
+    "RBHKBIS": 98.96
+  },
+  {
+    "observation_date": "2023-10-01",
+    "RBHKBIS": 100.55
+  },
+  {
+    "observation_date": "2023-11-01",
+    "RBHKBIS": 99.64
+  },
+  {
+    "observation_date": "2023-12-01",
+    "RBHKBIS": 98.27
+  },
+  {
+    "observation_date": "2024-01-01",
+    "RBHKBIS": 98.53
+  },
+  {
+    "observation_date": "2024-02-01",
+    "RBHKBIS": 98.71
+  },
+  {
+    "observation_date": "2024-03-01",
+    "RBHKBIS": 98.7
+  },
+  {
+    "observation_date": "2024-04-01",
+    "RBHKBIS": 98.99
+  },
+  {
+    "observation_date": "2024-05-01",
+    "RBHKBIS": 98.58
+  },
+  {
+    "observation_date": "2024-06-01",
+    "RBHKBIS": 99.16
+  },
+  {
+    "observation_date": "2024-07-01",
+    "RBHKBIS": 99.69
+  },
+  {
+    "observation_date": "2024-08-01",
+    "RBHKBIS": 97.42
+  },
+  {
+    "observation_date": "2024-09-01",
+    "RBHKBIS": 96.28
+  },
+  {
+    "observation_date": "2024-10-01",
+    "RBHKBIS": 97.77
+  },
+  {
+    "observation_date": "2024-11-01",
+    "RBHKBIS": 99.53
+  },
+  {
+    "observation_date": "2024-12-01",
+    "RBHKBIS": 100.3
+  },
+  {
+    "observation_date": "2025-01-01",
+    "RBHKBIS": 101.51
+  },
+  {
+    "observation_date": "2025-02-01",
+    "RBHKBIS": 100.27
+  },
+  {
+    "observation_date": "2025-03-01",
+    "RBHKBIS": 99.38
+  },
+  {
+    "observation_date": "2025-04-01",
+    "RBHKBIS": 98.32
+  },
+  {
+    "observation_date": "2025-05-01",
+    "RBHKBIS": 96.15
+  },
+  {
+    "observation_date": "2025-06-01",
+    "RBHKBIS": 94.92
+  },
+  {
+    "observation_date": "2025-07-01",
+    "RBHKBIS": 95.1
+  },
+  {
+    "observation_date": "2025-08-01",
+    "RBHKBIS": 95.57
+  },
+  {
+    "observation_date": "2025-09-01",
+    "RBHKBIS": 95.69
+  },
+  {
+    "observation_date": "2025-10-01",
+    "RBHKBIS": 96.53
+  },
+  {
+    "observation_date": "2025-11-01",
+    "RBHKBIS": 96.82
+  },
+  {
+    "observation_date": "2025-12-01",
+    "RBHKBIS": 96.16
+  },
+  {
+    "observation_date": "2026-01-01",
+    "RBHKBIS": 95.88
+  },
+  {
+    "observation_date": "2026-02-01",
+    "RBHKBIS": 94.52
+  },
+  {
+    "observation_date": "2026-03-01",
+    "RBHKBIS": 95.16
+  },
+  {
+    "observation_date": "2026-04-01",
+    "RBHKBIS": 94.45
+  },
+  {
+    "observation_date": "2026-05-01",
+    "RBHKBIS": 94.1
+  },
+  {
+    "observation_date": "2026-06-01",
+    "RBHKBIS": 94.63
+  },
+  {
+    "observation_date": "2026-07-01",
+    "RBHKBIS": 95.23
+  },
+  {
+    "observation_date": "2026-08-01",
+    "RBHKBIS": 94.05
+  },
+  {
+    "observation_date": "2026-09-01",
+    "RBHKBIS": 94.09
+  },
+  {
+    "observation_date": "2026-10-01",
+    "RBHKBIS": 94.68
+  }
+]

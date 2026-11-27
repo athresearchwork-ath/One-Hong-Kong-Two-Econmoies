@@ -1,0 +1,62 @@
+{
+  "1999/00": {
+    "total_exp": 536.25,
+    "housing": 172.7,
+    "non_housing": 363.55,
+    "nonhsg_gdp": 28.07,
+    "nonhsg_pce": 0,
+    "gdp": 1295,
+    "pce": 0,
+    "mo_total": 21767.08
+  },
+  "2004/05": {
+    "total_exp": 499.37,
+    "housing": 152.8,
+    "non_housing": 346.57,
+    "nonhsg_gdp": 24.58,
+    "nonhsg_pce": 42.68,
+    "gdp": 1410,
+    "pce": 812,
+    "mo_total": 18872.55
+  },
+  "2009/10": {
+    "total_exp": 614.5,
+    "housing": 201.6,
+    "non_housing": 412.9,
+    "nonhsg_gdp": 23.73,
+    "nonhsg_pce": 37.88,
+    "gdp": 1740,
+    "pce": 1090,
+    "mo_total": 21625.0
+  },
+  "2014/15": {
+    "total_exp": 815.51,
+    "housing": 292.0,
+    "non_housing": 523.51,
+    "nonhsg_gdp": 23.16,
+    "nonhsg_pce": 34.83,
+    "gdp": 2260,
+    "pce": 1503,
+    "mo_total": 27636.87
+  },
+  "2019/20": {
+    "total_exp": 912.97,
+    "housing": 358.8,
+    "non_housing": 554.17,
+    "nonhsg_gdp": 19.38,
+    "nonhsg_pce": 28.07,
+    "gdp": 2860,
+    "pce": 1974,
+    "mo_total": 30190.84
+  },
+  "2024/25": {
+    "total_exp": 1055.16,
+    "housing": 414.7,
+    "non_housing": 640.46,
+    "nonhsg_gdp": 20.14,
+    "nonhsg_pce": 29.87,
+    "gdp": 3180,
+    "pce": 2144,
+    "mo_total": 32506.36
+  }
+}

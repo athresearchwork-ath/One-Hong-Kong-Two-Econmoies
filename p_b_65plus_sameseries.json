@@ -1,0 +1,22 @@
+{
+ "test": "P-b elderly poverty growth vs 65+ population growth, same series",
+ "source": "C&SD Table 110-01001, Population by sex and age group, mid-year, resident population (API get.php?id=110-01001)",
+ "elderly_65plus_midyear_persons": {
+  "2014": 1063800,
+  "2019": 1327500,
+  "2020": 1381400,
+  "2021": 1451500,
+  "2022": 1528900,
+  "2023": 1641900,
+  "2024": 1718900,
+  "2025": 1781600
+ },
+ "poor_inactive_elderly_oxford_oxfam": {
+  "2019": 391200,
+  "2024Q1": 558900
+ },
+ "pop_growth_2019_2024_pct": 29.5,
+ "poor_growth_2019_2024Q1_pct": 42.9,
+ "threshold": "fail if pop growth >= 42.9%",
+ "verdict": "PASS (same series; earlier mixed-series calc was +30.2%, conclusion unchanged)"
+}
