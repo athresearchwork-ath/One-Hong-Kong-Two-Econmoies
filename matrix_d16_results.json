@@ -1,0 +1,1419 @@
+{
+ "table": {
+  "2004": {
+   "conv": 41.334489213320595,
+   "lam": 2.1489647712899846,
+   "hib": 0.4638,
+   "hib_dec": 0.441178636363636,
+   "q_hib": 0.9966898609242949,
+   "q_blr": 10.781520659238344,
+   "rate_b": "lo",
+   "loan_b": "lo",
+   "L": 854615.3530000001
+  },
+  "2005": {
+   "conv": 41.05974933551014,
+   "lam": 2.1923022543463753,
+   "hib": 3.0613,
+   "hib_dec": 4.2237675,
+   "q_hib": 6.711294891230559,
+   "q_blr": 13.413586327449432,
+   "rate_b": "hi",
+   "loan_b": "lo",
+   "L": 969074.3269999999
+  },
+  "2006": {
+   "conv": 49.695541151050875,
+   "lam": 2.225326701062243,
+   "hib": 4.2716,
+   "hib_dec": 3.98991684210526,
+   "q_hib": 9.505705536257476,
+   "q_blr": 17.58465352750349,
+   "rate_b": "hi",
+   "loan_b": "lo",
+   "L": 1003682.4260000002
+  },
+  "2007": {
+   "conv": 46.240796357295096,
+   "lam": 2.5091644824143193,
+   "hib": 4.332,
+   "hib_dec": 3.74620263157895,
+   "q_hib": 10.869700537818831,
+   "q_blr": 19.04730819082048,
+   "rate_b": "hi",
+   "loan_b": "mid",
+   "L": 1161005.4610000001
+  },
+  "2008": {
+   "conv": 44.59811556230249,
+   "lam": 2.8567854606300127,
+   "hib": 2.3493,
+   "hib_dec": 1.46877523809524,
+   "q_hib": 6.711446082658089,
+   "q_blr": 15.400103043232281,
+   "rate_b": "hi",
+   "loan_b": "mid",
+   "L": 1353907.763
+  },
+  "2009": {
+   "conv": 47.910065339481214,
+   "lam": 3.150706491474759,
+   "hib": 0.4606,
+   "hib_dec": 0.114392727272727,
+   "q_hib": 1.4512154099732741,
+   "q_blr": 15.753532457373796,
+   "rate_b": "lo",
+   "loan_b": "mid",
+   "L": 1353379.6719999998
+  },
+  "2010": {
+   "conv": 43.21028367601036,
+   "lam": 3.27768109584667,
+   "hib": 0.2494,
+   "hib_dec": 0.295421363636364,
+   "q_hib": 0.8174536653041595,
+   "q_blr": 16.38840547923335,
+   "rate_b": "lo",
+   "loan_b": "mid",
+   "L": 1683456.3429999999
+  },
+  "2011": {
+   "conv": 44.32422922988961,
+   "lam": 3.3260032595028695,
+   "hib": 0.2679,
+   "hib_dec": 0.347332,
+   "q_hib": 0.8910362732208188,
+   "q_blr": 16.63001629751435,
+   "rate_b": "lo",
+   "loan_b": "mid",
+   "L": 1933661.7969999998
+  },
+  "2012": {
+   "conv": 50.143888386914995,
+   "lam": 3.451473818860626,
+   "hib": 0.4007,
+   "hib_dec": 0.398060526315789,
+   "q_hib": 1.3830055592174528,
+   "q_blr": 17.25736909430313,
+   "rate_b": "lo",
+   "loan_b": "mid",
+   "L": 2056029.1479999996
+  },
+  "2013": {
+   "conv": 46.049967770655606,
+   "lam": 3.789257729184971,
+   "hib": 0.3821,
+   "hib_dec": 0.379215,
+   "q_hib": 1.4478753783215774,
+   "q_blr": 18.946288645924856,
+   "rate_b": "lo",
+   "loan_b": "mid",
+   "L": 2281515.8680000002
+  },
+  "2014": {
+   "conv": 41.40748296882631,
+   "lam": 4.234406404342635,
+   "hib": 0.3746,
+   "hib_dec": 0.385470952380952,
+   "q_hib": 1.586208639066751,
+   "q_blr": 21.172032021713175,
+   "rate_b": "lo",
+   "loan_b": "hi",
+   "L": 2596046.816
+  },
+  "2015": {
+   "conv": 37.5676946255187,
+   "lam": 4.273018023126176,
+   "hib": 0.3888,
+   "hib_dec": 0.3891,
+   "q_hib": 1.6613494073914572,
+   "q_blr": 21.36509011563088,
+   "rate_b": "lo",
+   "loan_b": "hi",
+   "L": 2682857.096000001
+  },
+  "2016": {
+   "conv": 33.05486990988862,
+   "lam": 4.543596764453334,
+   "hib": 0.5982,
+   "hib_dec": 0.8779765,
+   "q_hib": 2.717979584495984,
+   "q_blr": 22.71798382226667,
+   "rate_b": "mid",
+   "loan_b": "hi",
+   "L": 2889155.0489999996
+  },
+  "2017": {
+   "conv": 32.48300007561384,
+   "lam": 4.924188700718391,
+   "hib": 0.8996,
+   "hib_dec": 1.26316684210526,
+   "q_hib": 4.429800155166264,
+   "q_blr": 24.620943503591953,
+   "rate_b": "mid",
+   "loan_b": "hi",
+   "L": 3227771.2240000004
+  },
+  "2018": {
+   "conv": 34.298398121855186,
+   "lam": 5.051670046673946,
+   "hib": 1.7514,
+   "hib_dec": 2.32176789473684,
+   "q_hib": 8.847494919744749,
+   "q_blr": 25.422702512285493,
+   "rate_b": "mid",
+   "loan_b": "hi",
+   "L": 3419086.4760000003
+  },
+  "2019": {
+   "conv": 28.17168851792182,
+   "lam": 5.5814673681417135,
+   "hib": 2.1213,
+   "hib_dec": 2.389086,
+   "q_hib": 11.839966728039018,
+   "q_blr": 28.48842111465209,
+   "rate_b": "hi",
+   "loan_b": "hi",
+   "L": 3491425.5159999994
+  },
+  "2020": {
+   "conv": 23.78777539295558,
+   "lam": 5.995785991421917,
+   "hib": 1.0712,
+   "hib_dec": 0.349643636363636,
+   "q_hib": 6.422685954011157,
+   "q_blr": 29.978929957109585,
+   "rate_b": "mid",
+   "loan_b": "hi",
+   "L": 3487838.648
+  },
+  "2021": {
+   "conv": 21.100886636201036,
+   "lam": 5.545225835644702,
+   "hib": 0.1924,
+   "hib_dec": 0.257727272727273,
+   "q_hib": 1.0669014507780405,
+   "q_blr": 27.72612917822351,
+   "rate_b": "lo",
+   "loan_b": "hi",
+   "L": 3590666.8140000002
+  },
+  "2022": {
+   "conv": 15.812796780684105,
+   "lam": 5.673959334655758,
+   "hib": 2.1159,
+   "hib_dec": 5.2945065,
+   "q_hib": 12.005530556198119,
+   "q_blr": 28.851694589372844,
+   "rate_b": "hi",
+   "loan_b": "hi",
+   "L": 3606941.623
+  },
+  "2023": {
+   "conv": 22.461821242677754,
+   "lam": 6.034935432528195,
+   "hib": 4.6188,
+   "hib_dec": 5.37074578947368,
+   "q_hib": 27.874159775761232,
+   "q_blr": 34.76908177445953,
+   "rate_b": "hi",
+   "loan_b": "hi",
+   "L": 3537636.9060000004
+  },
+  "2024": {
+   "conv": 21.772209930111085,
+   "lam": 5.5522086515975655,
+   "hib": 4.5194,
+   "hib_dec": 4.3549975,
+   "q_hib": 25.09265178003004,
+   "q_blr": 32.01242706839826,
+   "rate_b": "hi",
+   "loan_b": "hi",
+   "L": 3423636.2120000003
+  }
+ },
+ "cells": {
+  "lo|lo": [
+   [
+    2004,
+    41.334489213320595
+   ]
+  ],
+  "lo|hi": [
+   [
+    2005,
+    41.05974933551014
+   ],
+   [
+    2006,
+    49.695541151050875
+   ]
+  ],
+  "mid|hi": [
+   [
+    2007,
+    46.240796357295096
+   ],
+   [
+    2008,
+    44.59811556230249
+   ]
+  ],
+  "mid|lo": [
+   [
+    2009,
+    47.910065339481214
+   ],
+   [
+    2010,
+    43.21028367601036
+   ],
+   [
+    2011,
+    44.32422922988961
+   ],
+   [
+    2012,
+    50.143888386914995
+   ],
+   [
+    2013,
+    46.049967770655606
+   ]
+  ],
+  "hi|lo": [
+   [
+    2014,
+    41.40748296882631
+   ],
+   [
+    2015,
+    37.5676946255187
+   ],
+   [
+    2021,
+    21.100886636201036
+   ]
+  ],
+  "hi|mid": [
+   [
+    2016,
+    33.05486990988862
+   ],
+   [
+    2017,
+    32.48300007561384
+   ],
+   [
+    2018,
+    34.298398121855186
+   ],
+   [
+    2020,
+    23.78777539295558
+   ]
+  ],
+  "hi|hi": [
+   [
+    2019,
+    28.17168851792182
+   ],
+   [
+    2022,
+    15.812796780684105
+   ],
+   [
+    2023,
+    22.461821242677754
+   ],
+   [
+    2024,
+    21.772209930111085
+   ]
+  ]
+ },
+ "pearson": -0.5313373276427531,
+ "pearson_ex2022": -0.5229289911626002,
+ "wage": {
+  "2004 Mar": {
+   "all": 145.5,
+   "Manufacturing": 144.0,
+   "Import/export, wholesale and retail trades": 154.6,
+   "Transportation": 144.1,
+   "Accommodation and food service activities": 126.9,
+   "Financial and insurance activities": 156.0,
+   "Real estate leasing and maintenance management": 152.8,
+   "Professional and business services": 137.5,
+   "Personal services": 160.3,
+   "All selected industry sections": 145.5
+  },
+  "2004 Jun": {
+   "all": 146.6,
+   "Manufacturing": 145.7,
+   "Import/export, wholesale and retail trades": 155.5,
+   "Transportation": 145.5,
+   "Accommodation and food service activities": 126.8,
+   "Financial and insurance activities": 163.7,
+   "Real estate leasing and maintenance management": 154.0,
+   "Professional and business services": 140.6,
+   "Personal services": 158.9,
+   "All selected industry sections": 146.6
+  },
+  "2004 Sep": {
+   "all": 144.8,
+   "Manufacturing": 145.5,
+   "Import/export, wholesale and retail trades": 152.8,
+   "Transportation": 143.8,
+   "Accommodation and food service activities": 125.6,
+   "Financial and insurance activities": 164.1,
+   "Real estate leasing and maintenance management": 150.2,
+   "Professional and business services": 139.1,
+   "Personal services": 162.4,
+   "All selected industry sections": 144.8
+  },
+  "2004 Dec": {
+   "all": 145.4,
+   "Manufacturing": 146.2,
+   "Import/export, wholesale and retail trades": 154.4,
+   "Transportation": 144.6,
+   "Accommodation and food service activities": 126.0,
+   "Financial and insurance activities": 161.7,
+   "Real estate leasing and maintenance management": 152.0,
+   "Professional and business services": 137.1,
+   "Personal services": 164.5,
+   "All selected industry sections": 145.4
+  },
+  "2005 Mar": {
+   "all": 146.9,
+   "Manufacturing": 150.1,
+   "Import/export, wholesale and retail trades": 157.5,
+   "Transportation": 145.7,
+   "Accommodation and food service activities": 126.8,
+   "Financial and insurance activities": 158.6,
+   "Real estate leasing and maintenance management": 150.9,
+   "Professional and business services": 136.5,
+   "Personal services": 168.5,
+   "All selected industry sections": 146.9
+  },
+  "2005 Jun": {
+   "all": 147.5,
+   "Manufacturing": 147.7,
+   "Import/export, wholesale and retail trades": 156.9,
+   "Transportation": 146.6,
+   "Accommodation and food service activities": 125.5,
+   "Financial and insurance activities": 163.2,
+   "Real estate leasing and maintenance management": 154.1,
+   "Professional and business services": 137.7,
+   "Personal services": 168.3,
+   "All selected industry sections": 147.5
+  },
+  "2005 Sep": {
+   "all": 146.4,
+   "Manufacturing": 144.6,
+   "Import/export, wholesale and retail trades": 155.7,
+   "Transportation": 146.3,
+   "Accommodation and food service activities": 125.9,
+   "Financial and insurance activities": 161.2,
+   "Real estate leasing and maintenance management": 153.2,
+   "Professional and business services": 134.7,
+   "Personal services": 161.9,
+   "All selected industry sections": 146.4
+  },
+  "2005 Dec": {
+   "all": 147.7,
+   "Manufacturing": 148.4,
+   "Import/export, wholesale and retail trades": 157.1,
+   "Transportation": 146.4,
+   "Accommodation and food service activities": 126.9,
+   "Financial and insurance activities": 163.3,
+   "Real estate leasing and maintenance management": 153.5,
+   "Professional and business services": 135.1,
+   "Personal services": 163.3,
+   "All selected industry sections": 147.7
+  },
+  "2006 Mar": {
+   "all": 148.3,
+   "Manufacturing": 147.9,
+   "Import/export, wholesale and retail trades": 157.0,
+   "Transportation": 145.8,
+   "Accommodation and food service activities": 126.7,
+   "Financial and insurance activities": 164.2,
+   "Real estate leasing and maintenance management": 158.8,
+   "Professional and business services": 135.8,
+   "Personal services": 165.8,
+   "All selected industry sections": 148.3
+  },
+  "2006 Jun": {
+   "all": 149.5,
+   "Manufacturing": 147.3,
+   "Import/export, wholesale and retail trades": 159.4,
+   "Transportation": 146.6,
+   "Accommodation and food service activities": 127.4,
+   "Financial and insurance activities": 166.1,
+   "Real estate leasing and maintenance management": 155.0,
+   "Professional and business services": 138.7,
+   "Personal services": 166.9,
+   "All selected industry sections": 149.5
+  },
+  "2006 Sep": {
+   "all": 149.8,
+   "Manufacturing": 148.5,
+   "Import/export, wholesale and retail trades": 158.3,
+   "Transportation": 146.1,
+   "Accommodation and food service activities": 127.9,
+   "Financial and insurance activities": 167.3,
+   "Real estate leasing and maintenance management": 155.5,
+   "Professional and business services": 140.3,
+   "Personal services": 169.8,
+   "All selected industry sections": 149.8
+  },
+  "2006 Dec": {
+   "all": 151.0,
+   "Manufacturing": 148.7,
+   "Import/export, wholesale and retail trades": 159.6,
+   "Transportation": 146.9,
+   "Accommodation and food service activities": 128.1,
+   "Financial and insurance activities": 162.1,
+   "Real estate leasing and maintenance management": 156.8,
+   "Professional and business services": 142.5,
+   "Personal services": 182.0,
+   "All selected industry sections": 151.0
+  },
+  "2007 Mar": {
+   "all": 151.4,
+   "Manufacturing": 152.7,
+   "Import/export, wholesale and retail trades": 159.7,
+   "Transportation": 146.1,
+   "Accommodation and food service activities": 128.5,
+   "Financial and insurance activities": 169.8,
+   "Real estate leasing and maintenance management": 157.6,
+   "Professional and business services": 142.6,
+   "Personal services": 178.4,
+   "All selected industry sections": 151.4
+  },
+  "2007 Jun": {
+   "all": 153.7,
+   "Manufacturing": 153.4,
+   "Import/export, wholesale and retail trades": 162.9,
+   "Transportation": 148.3,
+   "Accommodation and food service activities": 130.1,
+   "Financial and insurance activities": 167.5,
+   "Real estate leasing and maintenance management": 158.6,
+   "Professional and business services": 146.3,
+   "Personal services": 184.2,
+   "All selected industry sections": 153.7
+  },
+  "2007 Sep": {
+   "all": 153.5,
+   "Manufacturing": 153.8,
+   "Import/export, wholesale and retail trades": 161.5,
+   "Transportation": 148.9,
+   "Accommodation and food service activities": 129.2,
+   "Financial and insurance activities": 167.9,
+   "Real estate leasing and maintenance management": 158.1,
+   "Professional and business services": 147.3,
+   "Personal services": 189.5,
+   "All selected industry sections": 153.5
+  },
+  "2007 Dec": {
+   "all": 155.2,
+   "Manufacturing": 157.7,
+   "Import/export, wholesale and retail trades": 164.6,
+   "Transportation": 150.6,
+   "Accommodation and food service activities": 129.2,
+   "Financial and insurance activities": 170.5,
+   "Real estate leasing and maintenance management": 160.4,
+   "Professional and business services": 147.8,
+   "Personal services": 190.3,
+   "All selected industry sections": 155.2
+  },
+  "2008 Mar": {
+   "all": 157.5,
+   "Manufacturing": 154.6,
+   "Import/export, wholesale and retail trades": 166.9,
+   "Transportation": 151.3,
+   "Accommodation and food service activities": 132.8,
+   "Financial and insurance activities": 170.2,
+   "Real estate leasing and maintenance management": 162.4,
+   "Professional and business services": 151.3,
+   "Personal services": 179.5,
+   "All selected industry sections": 157.5
+  },
+  "2008 Jun": {
+   "all": 160.0,
+   "Manufacturing": 160.3,
+   "Import/export, wholesale and retail trades": 170.4,
+   "Transportation": 150.7,
+   "Accommodation and food service activities": 134.0,
+   "Financial and insurance activities": 176.1,
+   "Real estate leasing and maintenance management": 162.6,
+   "Professional and business services": 153.6,
+   "Personal services": 186.3,
+   "All selected industry sections": 160.0
+  },
+  "2008 Sep": {
+   "all": 160.5,
+   "Manufacturing": 158.8,
+   "Import/export, wholesale and retail trades": 169.6,
+   "Transportation": 153.5,
+   "Accommodation and food service activities": 134.5,
+   "Financial and insurance activities": 178.1,
+   "Real estate leasing and maintenance management": 164.8,
+   "Professional and business services": 154.8,
+   "Personal services": 192.2,
+   "All selected industry sections": 160.5
+  },
+  "2008 Dec": {
+   "all": 156.6,
+   "Manufacturing": 159.9,
+   "Import/export, wholesale and retail trades": 165.1,
+   "Transportation": 149.1,
+   "Accommodation and food service activities": 131.6,
+   "Financial and insurance activities": 170.3,
+   "Real estate leasing and maintenance management": 162.0,
+   "Professional and business services": 153.0,
+   "Personal services": 188.1,
+   "All selected industry sections": 156.6
+  },
+  "2009 Mar": {
+   "all": 156.1,
+   "Manufacturing": 157.9,
+   "Import/export, wholesale and retail trades": 165.0,
+   "Transportation": 150.0,
+   "Accommodation and food service activities": 130.0,
+   "Financial and insurance activities": 170.4,
+   "Real estate leasing and maintenance management": 161.0,
+   "Professional and business services": 152.8,
+   "Personal services": 182.8,
+   "All selected industry sections": 156.1
+  },
+  "2009 Jun": {
+   "all": 157.0,
+   "Manufacturing": 156.9,
+   "Import/export, wholesale and retail trades": 166.6,
+   "Transportation": 151.4,
+   "Accommodation and food service activities": 129.3,
+   "Financial and insurance activities": 173.5,
+   "Real estate leasing and maintenance management": 161.1,
+   "Professional and business services": 153.4,
+   "Personal services": 184.6,
+   "All selected industry sections": 157.0
+  },
+  "2009 Sep": {
+   "all": 157.5,
+   "Manufacturing": 155.6,
+   "Import/export, wholesale and retail trades": 166.6,
+   "Transportation": 151.8,
+   "Accommodation and food service activities": 130.2,
+   "Financial and insurance activities": 173.5,
+   "Real estate leasing and maintenance management": 163.1,
+   "Professional and business services": 155.0,
+   "Personal services": 185.6,
+   "All selected industry sections": 157.5
+  },
+  "2009 Dec": {
+   "all": 157.9,
+   "Manufacturing": 155.3,
+   "Import/export, wholesale and retail trades": 166.2,
+   "Transportation": 151.6,
+   "Accommodation and food service activities": 131.4,
+   "Financial and insurance activities": 174.0,
+   "Real estate leasing and maintenance management": 164.0,
+   "Professional and business services": 156.4,
+   "Personal services": 187.9,
+   "All selected industry sections": 157.9
+  },
+  "2010 Mar": {
+   "all": 159.0,
+   "Manufacturing": 155.4,
+   "Import/export, wholesale and retail trades": 167.5,
+   "Transportation": 151.6,
+   "Accommodation and food service activities": 132.1,
+   "Financial and insurance activities": 176.9,
+   "Real estate leasing and maintenance management": 165.8,
+   "Professional and business services": 157.4,
+   "Personal services": 189.0,
+   "All selected industry sections": 159.0
+  },
+  "2010 Jun": {
+   "all": 160.5,
+   "Manufacturing": 155.4,
+   "Import/export, wholesale and retail trades": 169.7,
+   "Transportation": 152.6,
+   "Accommodation and food service activities": 132.7,
+   "Financial and insurance activities": 178.3,
+   "Real estate leasing and maintenance management": 166.5,
+   "Professional and business services": 159.2,
+   "Personal services": 190.2,
+   "All selected industry sections": 160.5
+  },
+  "2010 Sep": {
+   "all": 161.3,
+   "Manufacturing": 155.2,
+   "Import/export, wholesale and retail trades": 170.9,
+   "Transportation": 153.4,
+   "Accommodation and food service activities": 133.3,
+   "Financial and insurance activities": 178.7,
+   "Real estate leasing and maintenance management": 166.8,
+   "Professional and business services": 159.8,
+   "Personal services": 190.9,
+   "All selected industry sections": 161.3
+  },
+  "2010 Dec": {
+   "all": 163.1,
+   "Manufacturing": 153.7,
+   "Import/export, wholesale and retail trades": 173.5,
+   "Transportation": 153.9,
+   "Accommodation and food service activities": 135.8,
+   "Financial and insurance activities": 177.9,
+   "Real estate leasing and maintenance management": 167.1,
+   "Professional and business services": 162.0,
+   "Personal services": 196.3,
+   "All selected industry sections": 163.1
+  },
+  "2011 Mar": {
+   "all": 166.9,
+   "Manufacturing": 160.1,
+   "Import/export, wholesale and retail trades": 177.3,
+   "Transportation": 154.6,
+   "Accommodation and food service activities": 140.7,
+   "Financial and insurance activities": 185.7,
+   "Real estate leasing and maintenance management": 168.6,
+   "Professional and business services": 166.4,
+   "Personal services": 195.8,
+   "All selected industry sections": 166.9
+  },
+  "2011 Jun": {
+   "all": 173.4,
+   "Manufacturing": 164.3,
+   "Import/export, wholesale and retail trades": 181.7,
+   "Transportation": 158.2,
+   "Accommodation and food service activities": 144.9,
+   "Financial and insurance activities": 191.3,
+   "Real estate leasing and maintenance management": 183.6,
+   "Professional and business services": 181.6,
+   "Personal services": 206.6,
+   "All selected industry sections": 173.4
+  },
+  "2011 Sep": {
+   "all": 177.2,
+   "Manufacturing": 166.5,
+   "Import/export, wholesale and retail trades": 187.5,
+   "Transportation": 161.4,
+   "Accommodation and food service activities": 147.2,
+   "Financial and insurance activities": 192.2,
+   "Real estate leasing and maintenance management": 184.5,
+   "Professional and business services": 184.8,
+   "Personal services": 215.3,
+   "All selected industry sections": 177.2
+  },
+  "2011 Dec": {
+   "all": 178.3,
+   "Manufacturing": 170.0,
+   "Import/export, wholesale and retail trades": 188.1,
+   "Transportation": 161.8,
+   "Accommodation and food service activities": 150.6,
+   "Financial and insurance activities": 190.3,
+   "Real estate leasing and maintenance management": 186.6,
+   "Professional and business services": 185.8,
+   "Personal services": 222.0,
+   "All selected industry sections": 178.3
+  },
+  "2012 Mar": {
+   "all": 180.3,
+   "Manufacturing": 172.6,
+   "Import/export, wholesale and retail trades": 190.2,
+   "Transportation": 161.1,
+   "Accommodation and food service activities": 152.1,
+   "Financial and insurance activities": 193.6,
+   "Real estate leasing and maintenance management": 191.3,
+   "Professional and business services": 188.2,
+   "Personal services": 219.7,
+   "All selected industry sections": 180.3
+  },
+  "2012 Jun": {
+   "all": 182.1,
+   "Manufacturing": 170.5,
+   "Import/export, wholesale and retail trades": 189.5,
+   "Transportation": 163.3,
+   "Accommodation and food service activities": 156.0,
+   "Financial and insurance activities": 196.2,
+   "Real estate leasing and maintenance management": 193.4,
+   "Professional and business services": 192.0,
+   "Personal services": 226.3,
+   "All selected industry sections": 182.1
+  },
+  "2012 Sep": {
+   "all": 185.6,
+   "Manufacturing": 173.6,
+   "Import/export, wholesale and retail trades": 193.0,
+   "Transportation": 166.6,
+   "Accommodation and food service activities": 158.6,
+   "Financial and insurance activities": 200.4,
+   "Real estate leasing and maintenance management": 196.9,
+   "Professional and business services": 194.7,
+   "Personal services": 234.7,
+   "All selected industry sections": 185.6
+  },
+  "2012 Dec": {
+   "all": 187.5,
+   "Manufacturing": 172.8,
+   "Import/export, wholesale and retail trades": 195.1,
+   "Transportation": 166.4,
+   "Accommodation and food service activities": 163.2,
+   "Financial and insurance activities": 201.8,
+   "Real estate leasing and maintenance management": 199.8,
+   "Professional and business services": 192.7,
+   "Personal services": 240.7,
+   "All selected industry sections": 187.5
+  },
+  "2013 Mar": {
+   "all": 188.8,
+   "Manufacturing": 176.7,
+   "Import/export, wholesale and retail trades": 197.0,
+   "Transportation": 166.9,
+   "Accommodation and food service activities": 162.7,
+   "Financial and insurance activities": 204.0,
+   "Real estate leasing and maintenance management": 202.5,
+   "Professional and business services": 194.4,
+   "Personal services": 235.8,
+   "All selected industry sections": 188.8
+  },
+  "2013 Jun": {
+   "all": 191.6,
+   "Manufacturing": 181.6,
+   "Import/export, wholesale and retail trades": 195.1,
+   "Transportation": 169.4,
+   "Accommodation and food service activities": 167.2,
+   "Financial and insurance activities": 206.2,
+   "Real estate leasing and maintenance management": 211.1,
+   "Professional and business services": 203.1,
+   "Personal services": 241.9,
+   "All selected industry sections": 191.6
+  },
+  "2013 Sep": {
+   "all": 194.6,
+   "Manufacturing": 182.3,
+   "Import/export, wholesale and retail trades": 199.6,
+   "Transportation": 173.1,
+   "Accommodation and food service activities": 167.3,
+   "Financial and insurance activities": 208.4,
+   "Real estate leasing and maintenance management": 215.5,
+   "Professional and business services": 206.6,
+   "Personal services": 247.3,
+   "All selected industry sections": 194.6
+  },
+  "2013 Dec": {
+   "all": 195.2,
+   "Manufacturing": 180.9,
+   "Import/export, wholesale and retail trades": 198.8,
+   "Transportation": 173.2,
+   "Accommodation and food service activities": 169.4,
+   "Financial and insurance activities": 207.5,
+   "Real estate leasing and maintenance management": 219.2,
+   "Professional and business services": 208.3,
+   "Personal services": 253.8,
+   "All selected industry sections": 195.2
+  },
+  "2014 Mar": {
+   "all": 196.7,
+   "Manufacturing": 185.2,
+   "Import/export, wholesale and retail trades": 198.8,
+   "Transportation": 174.1,
+   "Accommodation and food service activities": 170.7,
+   "Financial and insurance activities": 209.5,
+   "Real estate leasing and maintenance management": 222.1,
+   "Professional and business services": 212.1,
+   "Personal services": 254.2,
+   "All selected industry sections": 196.7
+  },
+  "2014 Jun": {
+   "all": 200.3,
+   "Manufacturing": 189.7,
+   "Import/export, wholesale and retail trades": 203.1,
+   "Transportation": 177.6,
+   "Accommodation and food service activities": 174.4,
+   "Financial and insurance activities": 212.0,
+   "Real estate leasing and maintenance management": 222.1,
+   "Professional and business services": 215.6,
+   "Personal services": 261.1,
+   "All selected industry sections": 200.3
+  },
+  "2014 Sep": {
+   "all": 202.3,
+   "Manufacturing": 190.7,
+   "Import/export, wholesale and retail trades": 203.8,
+   "Transportation": 181.8,
+   "Accommodation and food service activities": 176.2,
+   "Financial and insurance activities": 215.1,
+   "Real estate leasing and maintenance management": 222.1,
+   "Professional and business services": 218.7,
+   "Personal services": 267.9,
+   "All selected industry sections": 202.3
+  },
+  "2014 Dec": {
+   "all": 203.3,
+   "Manufacturing": 191.1,
+   "Import/export, wholesale and retail trades": 204.7,
+   "Transportation": 181.7,
+   "Accommodation and food service activities": 176.8,
+   "Financial and insurance activities": 215.4,
+   "Real estate leasing and maintenance management": 223.6,
+   "Professional and business services": 221.3,
+   "Personal services": 271.9,
+   "All selected industry sections": 203.3
+  },
+  "2015 Mar": {
+   "all": 204.8,
+   "Manufacturing": 193.3,
+   "Import/export, wholesale and retail trades": 204.8,
+   "Transportation": 182.6,
+   "Accommodation and food service activities": 179.9,
+   "Financial and insurance activities": 216.7,
+   "Real estate leasing and maintenance management": 226.9,
+   "Professional and business services": 222.6,
+   "Personal services": 274.3,
+   "All selected industry sections": 204.8
+  },
+  "2015 Jun": {
+   "all": 209.4,
+   "Manufacturing": 196.6,
+   "Import/export, wholesale and retail trades": 209.7,
+   "Transportation": 185.8,
+   "Accommodation and food service activities": 184.0,
+   "Financial and insurance activities": 218.4,
+   "Real estate leasing and maintenance management": 230.7,
+   "Professional and business services": 231.7,
+   "Personal services": 277.6,
+   "All selected industry sections": 209.4
+  },
+  "2015 Sep": {
+   "all": 211.3,
+   "Manufacturing": 199.1,
+   "Import/export, wholesale and retail trades": 210.2,
+   "Transportation": 189.3,
+   "Accommodation and food service activities": 185.4,
+   "Financial and insurance activities": 222.2,
+   "Real estate leasing and maintenance management": 231.2,
+   "Professional and business services": 235.0,
+   "Personal services": 282.9,
+   "All selected industry sections": 211.3
+  },
+  "2015 Dec": {
+   "all": 211.9,
+   "Manufacturing": 199.1,
+   "Import/export, wholesale and retail trades": 210.5,
+   "Transportation": 189.1,
+   "Accommodation and food service activities": 186.2,
+   "Financial and insurance activities": 222.8,
+   "Real estate leasing and maintenance management": 231.7,
+   "Professional and business services": 236.8,
+   "Personal services": 287.8,
+   "All selected industry sections": 211.9
+  },
+  "2016 Mar": {
+   "all": 212.7,
+   "Manufacturing": 200.0,
+   "Import/export, wholesale and retail trades": 210.6,
+   "Transportation": 189.4,
+   "Accommodation and food service activities": 188.8,
+   "Financial and insurance activities": 224.4,
+   "Real estate leasing and maintenance management": 234.6,
+   "Professional and business services": 234.6,
+   "Personal services": 291.5,
+   "All selected industry sections": 212.7
+  },
+  "2016 Jun": {
+   "all": 217.3,
+   "Manufacturing": 203.6,
+   "Import/export, wholesale and retail trades": 215.5,
+   "Transportation": 192.5,
+   "Accommodation and food service activities": 193.1,
+   "Financial and insurance activities": 225.5,
+   "Real estate leasing and maintenance management": 238.6,
+   "Professional and business services": 242.6,
+   "Personal services": 293.7,
+   "All selected industry sections": 217.3
+  },
+  "2016 Sep": {
+   "all": 219.0,
+   "Manufacturing": 206.6,
+   "Import/export, wholesale and retail trades": 215.9,
+   "Transportation": 195.6,
+   "Accommodation and food service activities": 194.5,
+   "Financial and insurance activities": 228.9,
+   "Real estate leasing and maintenance management": 239.9,
+   "Professional and business services": 245.3,
+   "Personal services": 297.9,
+   "All selected industry sections": 219.0
+  },
+  "2016 Dec": {
+   "all": 219.6,
+   "Manufacturing": 206.8,
+   "Import/export, wholesale and retail trades": 216.3,
+   "Transportation": 195.3,
+   "Accommodation and food service activities": 195.1,
+   "Financial and insurance activities": 230.0,
+   "Real estate leasing and maintenance management": 239.9,
+   "Professional and business services": 247.5,
+   "Personal services": 301.9,
+   "All selected industry sections": 219.6
+  },
+  "2017 Mar": {
+   "all": 220.5,
+   "Manufacturing": 207.2,
+   "Import/export, wholesale and retail trades": 216.7,
+   "Transportation": 195.3,
+   "Accommodation and food service activities": 197.2,
+   "Financial and insurance activities": 231.8,
+   "Real estate leasing and maintenance management": 242.6,
+   "Professional and business services": 246.1,
+   "Personal services": 304.2,
+   "All selected industry sections": 220.5
+  },
+  "2017 Jun": {
+   "all": 225.6,
+   "Manufacturing": 211.5,
+   "Import/export, wholesale and retail trades": 221.7,
+   "Transportation": 198.3,
+   "Accommodation and food service activities": 202.5,
+   "Financial and insurance activities": 233.7,
+   "Real estate leasing and maintenance management": 248.2,
+   "Professional and business services": 255.0,
+   "Personal services": 307.2,
+   "All selected industry sections": 225.6
+  },
+  "2017 Sep": {
+   "all": 227.1,
+   "Manufacturing": 214.3,
+   "Import/export, wholesale and retail trades": 222.2,
+   "Transportation": 201.2,
+   "Accommodation and food service activities": 203.9,
+   "Financial and insurance activities": 236.8,
+   "Real estate leasing and maintenance management": 250.5,
+   "Professional and business services": 256.0,
+   "Personal services": 309.8,
+   "All selected industry sections": 227.1
+  },
+  "2017 Dec": {
+   "all": 227.9,
+   "Manufacturing": 214.8,
+   "Import/export, wholesale and retail trades": 222.8,
+   "Transportation": 200.8,
+   "Accommodation and food service activities": 204.2,
+   "Financial and insurance activities": 238.2,
+   "Real estate leasing and maintenance management": 250.8,
+   "Professional and business services": 258.8,
+   "Personal services": 313.9,
+   "All selected industry sections": 227.9
+  },
+  "2018 Mar": {
+   "all": 229.2,
+   "Manufacturing": 215.0,
+   "Import/export, wholesale and retail trades": 223.5,
+   "Transportation": 202.5,
+   "Accommodation and food service activities": 206.6,
+   "Financial and insurance activities": 239.4,
+   "Real estate leasing and maintenance management": 254.1,
+   "Professional and business services": 258.1,
+   "Personal services": 315.8,
+   "All selected industry sections": 229.2
+  },
+  "2018 Jun": {
+   "all": 234.2,
+   "Manufacturing": 219.6,
+   "Import/export, wholesale and retail trades": 228.4,
+   "Transportation": 204.7,
+   "Accommodation and food service activities": 212.0,
+   "Financial and insurance activities": 242.1,
+   "Real estate leasing and maintenance management": 259.3,
+   "Professional and business services": 266.3,
+   "Personal services": 319.6,
+   "All selected industry sections": 234.2
+  },
+  "2018 Sep": {
+   "all": 236.5,
+   "Manufacturing": 222.6,
+   "Import/export, wholesale and retail trades": 229.3,
+   "Transportation": 212.8,
+   "Accommodation and food service activities": 213.1,
+   "Financial and insurance activities": 245.6,
+   "Real estate leasing and maintenance management": 261.0,
+   "Professional and business services": 267.4,
+   "Personal services": 321.8,
+   "All selected industry sections": 236.5
+  },
+  "2018 Dec": {
+   "all": 237.3,
+   "Manufacturing": 223.4,
+   "Import/export, wholesale and retail trades": 229.5,
+   "Transportation": 212.7,
+   "Accommodation and food service activities": 214.0,
+   "Financial and insurance activities": 247.3,
+   "Real estate leasing and maintenance management": 261.4,
+   "Professional and business services": 269.8,
+   "Personal services": 326.1,
+   "All selected industry sections": 237.3
+  },
+  "2019 Mar": {
+   "all": 238.2,
+   "Manufacturing": 223.4,
+   "Import/export, wholesale and retail trades": 229.8,
+   "Transportation": 212.4,
+   "Accommodation and food service activities": 216.3,
+   "Financial and insurance activities": 248.3,
+   "Real estate leasing and maintenance management": 264.4,
+   "Professional and business services": 268.7,
+   "Personal services": 327.9,
+   "All selected industry sections": 238.2
+  },
+  "2019 Jun": {
+   "all": 243.2,
+   "Manufacturing": 227.8,
+   "Import/export, wholesale and retail trades": 234.2,
+   "Transportation": 215.7,
+   "Accommodation and food service activities": 221.3,
+   "Financial and insurance activities": 251.3,
+   "Real estate leasing and maintenance management": 270.0,
+   "Professional and business services": 276.8,
+   "Personal services": 332.2,
+   "All selected industry sections": 243.2
+  },
+  "2019 Sep": {
+   "all": 244.6,
+   "Manufacturing": 230.1,
+   "Import/export, wholesale and retail trades": 234.6,
+   "Transportation": 221.2,
+   "Accommodation and food service activities": 221.8,
+   "Financial and insurance activities": 254.5,
+   "Real estate leasing and maintenance management": 271.1,
+   "Professional and business services": 277.0,
+   "Personal services": 333.6,
+   "All selected industry sections": 244.6
+  },
+  "2019 Dec": {
+   "all": 243.9,
+   "Manufacturing": 229.7,
+   "Import/export, wholesale and retail trades": 233.1,
+   "Transportation": 220.0,
+   "Accommodation and food service activities": 221.0,
+   "Financial and insurance activities": 254.7,
+   "Real estate leasing and maintenance management": 270.6,
+   "Professional and business services": 277.9,
+   "Personal services": 335.5,
+   "All selected industry sections": 243.9
+  },
+  "2020 Mar": {
+   "all": 243.4,
+   "Manufacturing": 229.0,
+   "Import/export, wholesale and retail trades": 232.9,
+   "Transportation": 219.1,
+   "Accommodation and food service activities": 219.7,
+   "Financial and insurance activities": 255.0,
+   "Real estate leasing and maintenance management": 272.9,
+   "Professional and business services": 276.1,
+   "Personal services": 331.4,
+   "All selected industry sections": 243.4
+  },
+  "2020 Jun": {
+   "all": 246.2,
+   "Manufacturing": 232.3,
+   "Import/export, wholesale and retail trades": 236.6,
+   "Transportation": 217.0,
+   "Accommodation and food service activities": 223.3,
+   "Financial and insurance activities": 257.5,
+   "Real estate leasing and maintenance management": 277.1,
+   "Professional and business services": 280.0,
+   "Personal services": 334.2,
+   "All selected industry sections": 246.2
+  },
+  "2020 Sep": {
+   "all": 246.9,
+   "Manufacturing": 234.0,
+   "Import/export, wholesale and retail trades": 236.5,
+   "Transportation": 217.3,
+   "Accommodation and food service activities": 223.8,
+   "Financial and insurance activities": 260.0,
+   "Real estate leasing and maintenance management": 277.9,
+   "Professional and business services": 280.9,
+   "Personal services": 335.6,
+   "All selected industry sections": 246.9
+  },
+  "2020 Dec": {
+   "all": 246.5,
+   "Manufacturing": 233.5,
+   "Import/export, wholesale and retail trades": 234.7,
+   "Transportation": 216.8,
+   "Accommodation and food service activities": 223.1,
+   "Financial and insurance activities": 260.6,
+   "Real estate leasing and maintenance management": 278.0,
+   "Professional and business services": 282.2,
+   "Personal services": 336.7,
+   "All selected industry sections": 246.5
+  },
+  "2021 Mar": {
+   "all": 245.5,
+   "Manufacturing": 232.5,
+   "Import/export, wholesale and retail trades": 233.9,
+   "Transportation": 214.5,
+   "Accommodation and food service activities": 221.6,
+   "Financial and insurance activities": 260.8,
+   "Real estate leasing and maintenance management": 280.5,
+   "Professional and business services": 280.3,
+   "Personal services": 330.7,
+   "All selected industry sections": 245.5
+  },
+  "2021 Jun": {
+   "all": 248.9,
+   "Manufacturing": 235.5,
+   "Import/export, wholesale and retail trades": 238.2,
+   "Transportation": 215.2,
+   "Accommodation and food service activities": 225.1,
+   "Financial and insurance activities": 263.5,
+   "Real estate leasing and maintenance management": 284.8,
+   "Professional and business services": 284.3,
+   "Personal services": 334.5,
+   "All selected industry sections": 248.9
+  },
+  "2021 Sep": {
+   "all": 250.2,
+   "Manufacturing": 237.2,
+   "Import/export, wholesale and retail trades": 238.5,
+   "Transportation": 216.4,
+   "Accommodation and food service activities": 227.0,
+   "Financial and insurance activities": 266.6,
+   "Real estate leasing and maintenance management": 286.0,
+   "Professional and business services": 286.1,
+   "Personal services": 336.9,
+   "All selected industry sections": 250.2
+  },
+  "2021 Dec": {
+   "all": 251.0,
+   "Manufacturing": 237.8,
+   "Import/export, wholesale and retail trades": 238.6,
+   "Transportation": 216.3,
+   "Accommodation and food service activities": 227.8,
+   "Financial and insurance activities": 267.9,
+   "Real estate leasing and maintenance management": 286.7,
+   "Professional and business services": 288.2,
+   "Personal services": 339.8,
+   "All selected industry sections": 251.0
+  },
+  "2022 Mar": {
+   "all": 249.9,
+   "Manufacturing": 236.6,
+   "Import/export, wholesale and retail trades": 237.6,
+   "Transportation": 214.1,
+   "Accommodation and food service activities": 225.1,
+   "Financial and insurance activities": 268.6,
+   "Real estate leasing and maintenance management": 288.9,
+   "Professional and business services": 287.1,
+   "Personal services": 327.5,
+   "All selected industry sections": 249.9
+  },
+  "2022 Jun": {
+   "all": 253.7,
+   "Manufacturing": 240.2,
+   "Import/export, wholesale and retail trades": 242.4,
+   "Transportation": 213.9,
+   "Accommodation and food service activities": 229.4,
+   "Financial and insurance activities": 272.2,
+   "Real estate leasing and maintenance management": 293.1,
+   "Professional and business services": 291.3,
+   "Personal services": 334.3,
+   "All selected industry sections": 253.7
+  },
+  "2022 Sep": {
+   "all": 256.1,
+   "Manufacturing": 242.1,
+   "Import/export, wholesale and retail trades": 242.7,
+   "Transportation": 222.0,
+   "Accommodation and food service activities": 231.8,
+   "Financial and insurance activities": 275.6,
+   "Real estate leasing and maintenance management": 294.2,
+   "Professional and business services": 293.3,
+   "Personal services": 339.8,
+   "All selected industry sections": 256.1
+  },
+  "2022 Dec": {
+   "all": 257.5,
+   "Manufacturing": 243.3,
+   "Import/export, wholesale and retail trades": 243.0,
+   "Transportation": 224.1,
+   "Accommodation and food service activities": 233.5,
+   "Financial and insurance activities": 276.6,
+   "Real estate leasing and maintenance management": 294.9,
+   "Professional and business services": 295.6,
+   "Personal services": 344.9,
+   "All selected industry sections": 257.5
+  },
+  "2023 Mar": {
+   "all": 258.0,
+   "Manufacturing": 245.9,
+   "Import/export, wholesale and retail trades": 242.9,
+   "Transportation": 225.4,
+   "Accommodation and food service activities": 233.8,
+   "Financial and insurance activities": 277.9,
+   "Real estate leasing and maintenance management": 297.7,
+   "Professional and business services": 295.3,
+   "Personal services": 338.3,
+   "All selected industry sections": 258.0
+  },
+  "2023 Jun": {
+   "all": 262.7,
+   "Manufacturing": 249.6,
+   "Import/export, wholesale and retail trades": 248.3,
+   "Transportation": 226.7,
+   "Accommodation and food service activities": 238.8,
+   "Financial and insurance activities": 282.5,
+   "Real estate leasing and maintenance management": 302.3,
+   "Professional and business services": 301.0,
+   "Personal services": 346.3,
+   "All selected industry sections": 262.7
+  },
+  "2023 Sep": {
+   "all": 265.8,
+   "Manufacturing": 253.0,
+   "Import/export, wholesale and retail trades": 249.6,
+   "Transportation": 235.3,
+   "Accommodation and food service activities": 241.8,
+   "Financial and insurance activities": 286.8,
+   "Real estate leasing and maintenance management": 303.6,
+   "Professional and business services": 303.9,
+   "Personal services": 353.1,
+   "All selected industry sections": 265.8
+  },
+  "2023 Dec": {
+   "all": 267.2,
+   "Manufacturing": 254.6,
+   "Import/export, wholesale and retail trades": 250.3,
+   "Transportation": 235.9,
+   "Accommodation and food service activities": 244.1,
+   "Financial and insurance activities": 287.5,
+   "Real estate leasing and maintenance management": 304.5,
+   "Professional and business services": 306.7,
+   "Personal services": 357.9,
+   "All selected industry sections": 267.2
+  },
+  "2024 Mar": {
+   "all": 267.9,
+   "Manufacturing": 256.9,
+   "Import/export, wholesale and retail trades": 250.6,
+   "Transportation": 235.2,
+   "Accommodation and food service activities": 244.9,
+   "Financial and insurance activities": 289.4,
+   "Real estate leasing and maintenance management": 307.7,
+   "Professional and business services": 307.1,
+   "Personal services": 352.6,
+   "All selected industry sections": 267.9
+  },
+  "2024 Jun": {
+   "all": 272.5,
+   "Manufacturing": 260.2,
+   "Import/export, wholesale and retail trades": 256.0,
+   "Transportation": 236.2,
+   "Accommodation and food service activities": 249.4,
+   "Financial and insurance activities": 293.1,
+   "Real estate leasing and maintenance management": 312.3,
+   "Professional and business services": 312.9,
+   "Personal services": 360.0,
+   "All selected industry sections": 272.5
+  },
+  "2024 Sep": {
+   "all": 275.4,
+   "Manufacturing": 262.3,
+   "Import/export, wholesale and retail trades": 257.1,
+   "Transportation": 243.2,
+   "Accommodation and food service activities": 252.0,
+   "Financial and insurance activities": 298.0,
+   "Real estate leasing and maintenance management": 313.7,
+   "Professional and business services": 316.2,
+   "Personal services": 367.6,
+   "All selected industry sections": 275.4
+  },
+  "2024 Dec": {
+   "all": 276.7,
+   "Manufacturing": 263.1,
+   "Import/export, wholesale and retail trades": 257.9,
+   "Transportation": 243.2,
+   "Accommodation and food service activities": 254.0,
+   "Financial and insurance activities": 299.2,
+   "Real estate leasing and maintenance management": 314.4,
+   "Professional and business services": 318.8,
+   "Personal services": 372.0,
+   "All selected industry sections": 276.7
+  },
+  "2025 Mar": {
+   "all": 277.4,
+   "Manufacturing": 265.1,
+   "Import/export, wholesale and retail trades": 258.3,
+   "Transportation": 243.5,
+   "Accommodation and food service activities": 254.3,
+   "Financial and insurance activities": 301.1,
+   "Real estate leasing and maintenance management": 317.3,
+   "Professional and business services": 319.6,
+   "Personal services": 366.3,
+   "All selected industry sections": 277.4
+  },
+  "2025 Jun": {
+   "all": 282.0,
+   "Manufacturing": 268.1,
+   "Import/export, wholesale and retail trades": 263.3,
+   "Transportation": 247.7,
+   "Accommodation and food service activities": 258.3,
+   "Financial and insurance activities": 304.1,
+   "Real estate leasing and maintenance management": 321.9,
+   "Professional and business services": 325.0,
+   "Personal services": 372.7,
+   "All selected industry sections": 282.0
+  },
+  "2025 Sep": {
+   "all": 284.4,
+   "Manufacturing": 270.3,
+   "Import/export, wholesale and retail trades": 264.9,
+   "Transportation": 248.2,
+   "Accommodation and food service activities": 261.3,
+   "Financial and insurance activities": 309.6,
+   "Real estate leasing and maintenance management": 323.4,
+   "Professional and business services": 328.4,
+   "Personal services": 379.9,
+   "All selected industry sections": 284.4
+  },
+  "2025 Dec": {
+   "all": 286.2,
+   "Manufacturing": 270.7,
+   "Import/export, wholesale and retail trades": 266.3,
+   "Transportation": 250.6,
+   "Accommodation and food service activities": 263.8,
+   "Financial and insurance activities": 310.8,
+   "Real estate leasing and maintenance management": 324.3,
+   "Professional and business services": 330.5,
+   "Personal services": 383.4,
+   "All selected industry sections": 286.2
+  },
+  "2026 Mar": {
+   "all": 286.9,
+   "Manufacturing": 273.0,
+   "Import/export, wholesale and retail trades": 266.8,
+   "Transportation": 249.7,
+   "Accommodation and food service activities": 264.2,
+   "Financial and insurance activities": 313.0,
+   "Real estate leasing and maintenance management": 327.3,
+   "Professional and business services": 331.4,
+   "Personal services": 377.5,
+   "All selected industry sections": 286.9
+  },
+  "2026 Jun": {
+   "all": 291.5,
+   "Manufacturing": 276.5,
+   "Import/export, wholesale and retail trades": 272.1,
+   "Transportation": 253.6,
+   "Accommodation and food service activities": 268.2,
+   "Financial and insurance activities": 316.9,
+   "Real estate leasing and maintenance management": 331.7,
+   "Professional and business services": 336.9,
+   "Personal services": 384.5,
+   "All selected industry sections": 291.5
+  }
+ }
+}

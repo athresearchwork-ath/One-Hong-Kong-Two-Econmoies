@@ -1,0 +1,212 @@
+{
+  "2004": {
+    "Manufacturing": 10.2,
+    "Construction": 6.4,
+    "Trade": 16.8,
+    "Accommodation": 11.8,
+    "Transport": 22.2,
+    "ICT": 21.9,
+    "Finance": 32.8,
+    "RE/Prof": 26.4
+  },
+  "2005": {
+    "Manufacturing": 10.8,
+    "Construction": 7.1,
+    "Trade": 17.1,
+    "Accommodation": 15.0,
+    "Transport": 22.1,
+    "ICT": 22.2,
+    "Finance": 29.9,
+    "RE/Prof": 27.5
+  },
+  "2006": {
+    "Manufacturing": 10.7,
+    "Construction": 7.3,
+    "Trade": 15.7,
+    "Accommodation": 16.6,
+    "Transport": 19.8,
+    "ICT": 23.3,
+    "Finance": 32.7,
+    "RE/Prof": 27.9
+  },
+  "2007": {
+    "Manufacturing": 8.1,
+    "Construction": 6.8,
+    "Trade": 15.0,
+    "Accommodation": 17.8,
+    "Transport": 18.8,
+    "ICT": 22.7,
+    "Finance": 33.0,
+    "RE/Prof": 27.5
+  },
+  "2008": {
+    "Manufacturing": 6.5,
+    "Construction": 8.3,
+    "Trade": 15.7,
+    "Accommodation": 19.2,
+    "Transport": 11.0,
+    "ICT": 20.7,
+    "Finance": 28.9,
+    "RE/Prof": 29.7
+  },
+  "2009": {
+    "Manufacturing": 5.7,
+    "Construction": 10.4,
+    "Trade": 15.6,
+    "Accommodation": 15.6,
+    "Transport": 14.3,
+    "ICT": 20.6,
+    "Finance": 26.9,
+    "RE/Prof": 27.6
+  },
+  "2010": {
+    "Manufacturing": 5.7,
+    "Construction": 9.9,
+    "Trade": 15.7,
+    "Accommodation": 18.3,
+    "Transport": 21.0,
+    "ICT": 22.3,
+    "Finance": 24.5,
+    "RE/Prof": 27.3
+  },
+  "2011": {
+    "Manufacturing": 4.9,
+    "Construction": 11.2,
+    "Trade": 18.9,
+    "Accommodation": 20.7,
+    "Transport": 14.5,
+    "ICT": 22.0,
+    "Finance": 22.6,
+    "RE/Prof": 28.0
+  },
+  "2012": {
+    "Manufacturing": 4.8,
+    "Construction": 6.6,
+    "Trade": 19.2,
+    "Accommodation": 21.3,
+    "Transport": 13.3,
+    "ICT": 25.2,
+    "Finance": 24.7,
+    "RE/Prof": 28.3
+  },
+  "2013": {
+    "Manufacturing": 4.7,
+    "Construction": 6.8,
+    "Trade": 21.2,
+    "Accommodation": 20.0,
+    "Transport": 13.2,
+    "ICT": 24.0,
+    "Finance": 26.1,
+    "RE/Prof": 26.6
+  },
+  "2014": {
+    "Manufacturing": 3.6,
+    "Construction": 10.2,
+    "Trade": 21.3,
+    "Accommodation": 18.8,
+    "Transport": 14.1,
+    "ICT": 21.2,
+    "Finance": 26.2,
+    "RE/Prof": 26.6
+  },
+  "2015": {
+    "Manufacturing": 2.8,
+    "Construction": 12.4,
+    "Trade": 21.6,
+    "Accommodation": 16.7,
+    "Transport": 16.7,
+    "ICT": 23.0,
+    "Finance": 28.9,
+    "RE/Prof": 26.2
+  },
+  "2016": {
+    "Manufacturing": 2.3,
+    "Construction": 13.7,
+    "Trade": 22.0,
+    "Accommodation": 15.6,
+    "Transport": 16.6,
+    "ICT": 23.9,
+    "Finance": 28.3,
+    "RE/Prof": 25.9
+  },
+  "2017": {
+    "Manufacturing": 2.3,
+    "Construction": 12.2,
+    "Trade": 23.0,
+    "Accommodation": 14.8,
+    "Transport": 15.4,
+    "ICT": 24.6,
+    "Finance": 29.5,
+    "RE/Prof": 24.7
+  },
+  "2018": {
+    "Manufacturing": 2.1,
+    "Construction": 12.2,
+    "Trade": 23.0,
+    "Accommodation": 14.5,
+    "Transport": 15.1,
+    "ICT": 24.9,
+    "Finance": 32.2,
+    "RE/Prof": 23.4
+  },
+  "2019": {
+    "Manufacturing": 3.2,
+    "Construction": 10.2,
+    "Trade": 22.2,
+    "Accommodation": 9.7,
+    "Transport": 13.4,
+    "ICT": 24.2,
+    "Finance": 33.2,
+    "RE/Prof": 22.6
+  },
+  "2020": {
+    "Manufacturing": 3.4,
+    "Construction": 13.5,
+    "Trade": 24.2,
+    "Accommodation": 4.6,
+    "Transport": 11.0,
+    "ICT": 25.6,
+    "Finance": 35.6,
+    "RE/Prof": 22.7
+  },
+  "2021": {
+    "Manufacturing": 2.1,
+    "Construction": 8.9,
+    "Trade": 22.4,
+    "Accommodation": -3.0,
+    "Transport": 24.1,
+    "ICT": 24.4,
+    "Finance": 31.7,
+    "RE/Prof": 16.6
+  },
+  "2022": {
+    "Manufacturing": 2.8,
+    "Construction": 11.8,
+    "Trade": 21.0,
+    "Accommodation": 2.3,
+    "Transport": 25.3,
+    "ICT": 24.6,
+    "Finance": 35.2,
+    "RE/Prof": 14.2
+  },
+  "2023": {
+    "Manufacturing": 2.3,
+    "Construction": 9.3,
+    "Trade": 21.2,
+    "Accommodation": -0.5,
+    "Transport": 19.2,
+    "ICT": 22.5,
+    "Finance": 40.2,
+    "RE/Prof": 13.0
+  },
+  "2024": {
+    "Finance": 43.0,
+    "Trade": 22.4,
+    "Manufacturing": 2.0,
+    "Construction": 9.1,
+    "ICT": 22.1,
+    "Transport": 19.0,
+    "Accommodation": -0.9,
+    "RE/Prof": 12.7
+  }
+}

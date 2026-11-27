@@ -1,0 +1,170 @@
+[
+  {
+    "industry": "陸路客運",
+    "year": 2012,
+    "fixed_net_additions_HKm": 3428.5,
+    "gross_surplus_HKm": 13154.0,
+    "ratio_percent": 26.0643,
+    "surplus_method": "receipts-expenses-wages inferred"
+  },
+  {
+    "industry": "陸路客運",
+    "year": 2013,
+    "fixed_net_additions_HKm": 5220.2,
+    "gross_surplus_HKm": 13654.1,
+    "ratio_percent": 38.2317,
+    "surplus_method": "receipts-expenses-wages inferred"
+  },
+  {
+    "industry": "陸路客運",
+    "year": 2014,
+    "fixed_net_additions_HKm": 6719.4,
+    "gross_surplus_HKm": 14650.2,
+    "ratio_percent": 45.8656,
+    "surplus_method": "receipts-expenses-wages inferred"
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2012,
+    "fixed_net_additions_HKm": 689,
+    "gross_surplus_HKm": 2198.1,
+    "ratio_percent": 31.3453,
+    "surplus_method": "receipts-expenses-wages inferred"
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2013,
+    "fixed_net_additions_HKm": 783.1,
+    "gross_surplus_HKm": 2041.3,
+    "ratio_percent": 38.3628,
+    "surplus_method": "receipts-expenses-wages inferred"
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2014,
+    "fixed_net_additions_HKm": 1158,
+    "gross_surplus_HKm": 2457.3,
+    "ratio_percent": 47.1249,
+    "surplus_method": "receipts-expenses-wages inferred"
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2012,
+    "fixed_net_additions_HKm": 24213,
+    "gross_surplus_HKm": 18624.1,
+    "ratio_percent": 130.009,
+    "surplus_method": "receipts-expenses-wages inferred"
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2013,
+    "fixed_net_additions_HKm": 35010.8,
+    "gross_surplus_HKm": 21783.9,
+    "ratio_percent": 160.7187,
+    "surplus_method": "receipts-expenses-wages inferred"
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2014,
+    "fixed_net_additions_HKm": 31031.4,
+    "gross_surplus_HKm": 28196.0,
+    "ratio_percent": 110.056,
+    "surplus_method": "receipts-expenses-wages inferred"
+  },
+  {
+    "industry": "陸路客運",
+    "year": 2017,
+    "fixed_net_additions_HKm": 5746.4,
+    "gross_surplus_HKm": 15581.6,
+    "ratio_percent": 36.8794,
+    "surplus_method": "reported"
+  },
+  {
+    "industry": "陸路客運",
+    "year": 2018,
+    "fixed_net_additions_HKm": 6483.7,
+    "gross_surplus_HKm": 16268.9,
+    "ratio_percent": 39.8533,
+    "surplus_method": "reported"
+  },
+  {
+    "industry": "陸路客運",
+    "year": 2019,
+    "fixed_net_additions_HKm": 5613.6,
+    "gross_surplus_HKm": 11581.9,
+    "ratio_percent": 48.4687,
+    "surplus_method": "reported"
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2017,
+    "fixed_net_additions_HKm": 425.6,
+    "gross_surplus_HKm": 2752.5,
+    "ratio_percent": 15.4623,
+    "surplus_method": "reported"
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2018,
+    "fixed_net_additions_HKm": 734.3,
+    "gross_surplus_HKm": 2630.1,
+    "ratio_percent": 27.9191,
+    "surplus_method": "reported"
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2019,
+    "fixed_net_additions_HKm": 598.1,
+    "gross_surplus_HKm": 2509.5,
+    "ratio_percent": 23.8334,
+    "surplus_method": "reported"
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2017,
+    "fixed_net_additions_HKm": 28264.8,
+    "gross_surplus_HKm": 30509.2,
+    "ratio_percent": 92.6435,
+    "surplus_method": "reported"
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2018,
+    "fixed_net_additions_HKm": 43829.2,
+    "gross_surplus_HKm": 31459.5,
+    "ratio_percent": 139.3194,
+    "surplus_method": "reported"
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2019,
+    "fixed_net_additions_HKm": 36380.3,
+    "gross_surplus_HKm": 25341.1,
+    "ratio_percent": 143.5624,
+    "surplus_method": "reported"
+  },
+  {
+    "industry": "陸路客運",
+    "year": 2021,
+    "fixed_net_additions_HKm": 5481.3,
+    "gross_surplus_HKm": 5709.9,
+    "ratio_percent": 95.9964,
+    "surplus_method": "reported"
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2021,
+    "fixed_net_additions_HKm": 403.3,
+    "gross_surplus_HKm": 3539.4,
+    "ratio_percent": 11.3946,
+    "surplus_method": "reported"
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2021,
+    "fixed_net_additions_HKm": 24759.3,
+    "gross_surplus_HKm": 8400.2,
+    "ratio_percent": 294.7466,
+    "surplus_method": "reported"
+  }
+]

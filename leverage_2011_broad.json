@@ -1,0 +1,56 @@
+[
+  {
+    "proxy": "製造",
+    "hkma_key": "mfg",
+    "national_accounts_key": "SECT_C",
+    "loan_2011_m": 189425.429,
+    "gos_2011_m": 10880,
+    "ratio": 17.410425459558823,
+    "caveat": "用途不等於借款人行業"
+  },
+  {
+    "proxy": "電力及燃氣",
+    "hkma_key": "eg",
+    "national_accounts_key": "SECT_DE",
+    "loan_2011_m": 63619.382,
+    "gos_2011_m": 27347,
+    "ratio": 2.3263751782645263,
+    "caveat": "分母另含水供應及廢物處理"
+  },
+  {
+    "proxy": "運輸",
+    "hkma_key": "tran",
+    "national_accounts_key": "SECT_H",
+    "loan_2011_m": 192830.698,
+    "gos_2011_m": 56611,
+    "ratio": 3.4062408012577063,
+    "caveat": "用途含運輸設備；分母為運輸倉儲郵政速遞"
+  },
+  {
+    "proxy": "批發零售",
+    "hkma_key": "wsale",
+    "national_accounts_key": "SECT_G",
+    "loan_2011_m": 313869.683,
+    "gos_2011_m": 290059,
+    "ratio": 1.0820891025618926,
+    "caveat": "分母另含進出口；貸款不含獨立貿易融資"
+  },
+  {
+    "proxy": "資訊科技",
+    "hkma_key": "it",
+    "national_accounts_key": "SECT_J",
+    "loan_2011_m": 40067.197,
+    "gos_2011_m": 30813,
+    "ratio": 1.3003341771330283,
+    "caveat": "分母為整體資訊通訊"
+  },
+  {
+    "proxy": "酒店餐飲",
+    "hkma_key": "misc_hotelcater",
+    "national_accounts_key": "SECT_I",
+    "loan_2011_m": 40755.833,
+    "gos_2011_m": 22490,
+    "ratio": 1.812175767007559,
+    "caveat": "合併；疫情通關影響須單列"
+  }
+]

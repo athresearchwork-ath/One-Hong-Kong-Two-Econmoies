@@ -1,0 +1,106 @@
+[
+  {
+    "indicator": "Private MEIP chained 2024 dollars",
+    "period": 2014,
+    "value": 249007,
+    "units": "HKD million",
+    "source": "https://www.censtatd.gov.hk/en/web_table.html?id=310-32032",
+    "limitations": "transcribed from API series ME_PR"
+  },
+  {
+    "indicator": "Private MEIP chained 2024 dollars",
+    "period": 2016,
+    "value": 206320,
+    "units": "HKD million",
+    "source": "https://www.censtatd.gov.hk/en/web_table.html?id=310-32032",
+    "limitations": "transcribed from API series ME_PR"
+  },
+  {
+    "indicator": "Private MEIP chained 2024 dollars",
+    "period": 2024,
+    "value": 133925,
+    "units": "HKD million",
+    "source": "https://www.censtatd.gov.hk/en/web_table.html?id=310-32032",
+    "limitations": "transcribed from API series ME_PR"
+  },
+  {
+    "indicator": "RVD all-class residential price index",
+    "period": "2021 annual average",
+    "value": 392.7,
+    "units": "index",
+    "source": "https://houseline.hk/en/market/price-index",
+    "limitations": "secondary display of RVD series"
+  },
+  {
+    "indicator": "RVD all-class residential price index",
+    "period": "2025 annual average",
+    "value": 290.1,
+    "units": "index",
+    "source": "https://houseline.hk/en/market/price-index",
+    "limitations": "secondary display of RVD series"
+  },
+  {
+    "indicator": "RVD all-class residential price index",
+    "period": "2026-08",
+    "value": 320.5,
+    "units": "index",
+    "source": "https://houseline.hk/en/market/price-index",
+    "limitations": "provisional secondary display of RVD series"
+  },
+  {
+    "indicator": "Nominal wage index accommodation and food",
+    "period": "2023-03",
+    "value": 233.8,
+    "units": "Sep 1992 = 100",
+    "source": "https://www.censtatd.gov.hk/wbr/B1050009/B10500092023QQ01/att/en/B10500092023QQ01.pdf",
+    "limitations": "employees up to supervisory level"
+  },
+  {
+    "indicator": "Nominal wage index all selected industries",
+    "period": "2023-03",
+    "value": 258.0,
+    "units": "Sep 1992 = 100",
+    "source": "https://www.censtatd.gov.hk/wbr/B1050009/B10500092023QQ01/att/en/B10500092023QQ01.pdf",
+    "limitations": "employees up to supervisory level"
+  },
+  {
+    "indicator": "Nominal wage index accommodation and food",
+    "period": "2026-03",
+    "value": 264.2,
+    "units": "Sep 1992 = 100",
+    "source": "https://www.censtatd.gov.hk/wbr/B1050009/B10500092026QQ01/att/en/B10500092026QQ01.pdf",
+    "limitations": "employees up to supervisory level"
+  },
+  {
+    "indicator": "Nominal wage index all selected industries",
+    "period": "2026-03",
+    "value": 286.9,
+    "units": "Sep 1992 = 100",
+    "source": "https://www.censtatd.gov.hk/wbr/B1050009/B10500092026QQ01/att/en/B10500092026QQ01.pdf",
+    "limitations": "employees up to supervisory level"
+  },
+  {
+    "indicator": "Food and beverage services vacancy rate",
+    "period": 2025,
+    "value": 5,
+    "units": "percent",
+    "source": "https://www.legco.gov.hk/yr2026/english/panels/mp/papers/mp20260622cb1-659-2-e.pdf",
+    "limitations": "approximately; review measure"
+  },
+  {
+    "indicator": "Food and beverage services unemployment rate",
+    "period": 2025,
+    "value": 6,
+    "units": "percent",
+    "source": "https://www.legco.gov.hk/yr2026/english/panels/mp/papers/mp20260622cb1-659-2-e.pdf",
+    "limitations": "approximately; review measure"
+  },
+  {
+    "indicator": "2022 population net movement initial estimate",
+    "period": 2022,
+    "value": -38800,
+    "units": "persons",
+    "source": "https://www.info.gov.hk/gia/general/202302/16/P2023021600304.htm",
+    "limitations": "initial provisional estimate later revised; includes one-way permit holders"
+  }
+]

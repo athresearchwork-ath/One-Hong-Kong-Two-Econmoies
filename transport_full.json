@@ -1,0 +1,398 @@
+[
+  {
+    "industry": "陸路客運",
+    "year": 2012,
+    "fixed_net_HKD_m": 3428.5,
+    "gross_surplus_HKD_m": 13154.0
+  },
+  {
+    "industry": "陸路客運",
+    "year": 2013,
+    "fixed_net_HKD_m": 5220.2,
+    "gross_surplus_HKD_m": 13654.1
+  },
+  {
+    "industry": "陸路客運",
+    "year": 2014,
+    "fixed_net_HKD_m": 6719.4,
+    "gross_surplus_HKD_m": 14650.2
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2012,
+    "fixed_net_HKD_m": 689.0,
+    "gross_surplus_HKD_m": 2198.1
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2013,
+    "fixed_net_HKD_m": 783.1,
+    "gross_surplus_HKD_m": 2041.4
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2014,
+    "fixed_net_HKD_m": 1158.0,
+    "gross_surplus_HKD_m": 2457.3
+  },
+  {
+    "industry": "陸路輔助",
+    "year": 2012,
+    "fixed_net_HKD_m": 82.2,
+    "gross_surplus_HKD_m": 3254.1
+  },
+  {
+    "industry": "陸路輔助",
+    "year": 2013,
+    "fixed_net_HKD_m": 377.5,
+    "gross_surplus_HKD_m": 3481.0
+  },
+  {
+    "industry": "陸路輔助",
+    "year": 2014,
+    "fixed_net_HKD_m": 110.1,
+    "gross_surplus_HKD_m": 3568.0
+  },
+  {
+    "industry": "跨境水運",
+    "year": 2012,
+    "fixed_net_HKD_m": -771.5,
+    "gross_surplus_HKD_m": 1607.7
+  },
+  {
+    "industry": "跨境水運",
+    "year": 2013,
+    "fixed_net_HKD_m": 2681.9,
+    "gross_surplus_HKD_m": 1597.0
+  },
+  {
+    "industry": "跨境水運",
+    "year": 2014,
+    "fixed_net_HKD_m": 7537.0,
+    "gross_surplus_HKD_m": 1600.7
+  },
+  {
+    "industry": "港內水運",
+    "year": 2012,
+    "fixed_net_HKD_m": 56.2,
+    "gross_surplus_HKD_m": 204.1
+  },
+  {
+    "industry": "港內水運",
+    "year": 2013,
+    "fixed_net_HKD_m": 131.4,
+    "gross_surplus_HKD_m": 265.7
+  },
+  {
+    "industry": "港內水運",
+    "year": 2014,
+    "fixed_net_HKD_m": 46.7,
+    "gross_surplus_HKD_m": 328.9
+  },
+  {
+    "industry": "水運輔助",
+    "year": 2012,
+    "fixed_net_HKD_m": 694.6,
+    "gross_surplus_HKD_m": 5477.6
+  },
+  {
+    "industry": "水運輔助",
+    "year": 2013,
+    "fixed_net_HKD_m": 777.4,
+    "gross_surplus_HKD_m": 4667.8
+  },
+  {
+    "industry": "水運輔助",
+    "year": 2014,
+    "fixed_net_HKD_m": 842.2,
+    "gross_surplus_HKD_m": 4991.9
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2012,
+    "fixed_net_HKD_m": 24213.0,
+    "gross_surplus_HKD_m": 18624.1
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2013,
+    "fixed_net_HKD_m": 35010.8,
+    "gross_surplus_HKD_m": 21783.9
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2014,
+    "fixed_net_HKD_m": 31031.4,
+    "gross_surplus_HKD_m": 28196.0
+  },
+  {
+    "industry": "其他運輸輔助",
+    "year": 2012,
+    "fixed_net_HKD_m": -305.7,
+    "gross_surplus_HKD_m": 5470.0
+  },
+  {
+    "industry": "其他運輸輔助",
+    "year": 2013,
+    "fixed_net_HKD_m": 327.2,
+    "gross_surplus_HKD_m": 6191.4
+  },
+  {
+    "industry": "其他運輸輔助",
+    "year": 2014,
+    "fixed_net_HKD_m": 1149.8,
+    "gross_surplus_HKD_m": 5321.6
+  },
+  {
+    "industry": "倉庫",
+    "year": 2012,
+    "fixed_net_HKD_m": 180.2,
+    "gross_surplus_HKD_m": 884.9
+  },
+  {
+    "industry": "倉庫",
+    "year": 2013,
+    "fixed_net_HKD_m": 116.8,
+    "gross_surplus_HKD_m": 1221.7
+  },
+  {
+    "industry": "倉庫",
+    "year": 2014,
+    "fixed_net_HKD_m": 249.3,
+    "gross_surplus_HKD_m": 1227.7
+  },
+  {
+    "industry": "速遞",
+    "year": 2012,
+    "fixed_net_HKD_m": 128.6,
+    "gross_surplus_HKD_m": 426.5
+  },
+  {
+    "industry": "速遞",
+    "year": 2013,
+    "fixed_net_HKD_m": 159.1,
+    "gross_surplus_HKD_m": 1011.0
+  },
+  {
+    "industry": "速遞",
+    "year": 2014,
+    "fixed_net_HKD_m": 286.6,
+    "gross_surplus_HKD_m": 1205.8
+  },
+  {
+    "industry": "總計",
+    "year": 2012,
+    "fixed_net_HKD_m": 28395.1,
+    "gross_surplus_HKD_m": 51301.1
+  },
+  {
+    "industry": "總計",
+    "year": 2013,
+    "fixed_net_HKD_m": 45585.3,
+    "gross_surplus_HKD_m": 55914.9
+  },
+  {
+    "industry": "總計",
+    "year": 2014,
+    "fixed_net_HKD_m": 49130.5,
+    "gross_surplus_HKD_m": 63548.1
+  },
+  {
+    "industry": "陸路客運",
+    "year": 2017,
+    "fixed_net_HKD_m": 5746.4,
+    "gross_surplus_HKD_m": 15581.6
+  },
+  {
+    "industry": "陸路客運",
+    "year": 2018,
+    "fixed_net_HKD_m": 6483.7,
+    "gross_surplus_HKD_m": 16268.9
+  },
+  {
+    "industry": "陸路客運",
+    "year": 2019,
+    "fixed_net_HKD_m": 5613.6,
+    "gross_surplus_HKD_m": 11581.9
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2017,
+    "fixed_net_HKD_m": 425.6,
+    "gross_surplus_HKD_m": 2752.5
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2018,
+    "fixed_net_HKD_m": 734.3,
+    "gross_surplus_HKD_m": 2630.1
+  },
+  {
+    "industry": "陸路貨運",
+    "year": 2019,
+    "fixed_net_HKD_m": 598.1,
+    "gross_surplus_HKD_m": 2509.5
+  },
+  {
+    "industry": "陸路輔助",
+    "year": 2017,
+    "fixed_net_HKD_m": 252.1,
+    "gross_surplus_HKD_m": 3605.4
+  },
+  {
+    "industry": "陸路輔助",
+    "year": 2018,
+    "fixed_net_HKD_m": 102.2,
+    "gross_surplus_HKD_m": 3577.1
+  },
+  {
+    "industry": "陸路輔助",
+    "year": 2019,
+    "fixed_net_HKD_m": 127.8,
+    "gross_surplus_HKD_m": 3512.9
+  },
+  {
+    "industry": "跨境水運",
+    "year": 2017,
+    "fixed_net_HKD_m": 1386.0,
+    "gross_surplus_HKD_m": -2122.5
+  },
+  {
+    "industry": "跨境水運",
+    "year": 2018,
+    "fixed_net_HKD_m": 2756.7,
+    "gross_surplus_HKD_m": 2274.2
+  },
+  {
+    "industry": "跨境水運",
+    "year": 2019,
+    "fixed_net_HKD_m": 2186.1,
+    "gross_surplus_HKD_m": 2768.4
+  },
+  {
+    "industry": "港內水運",
+    "year": 2017,
+    "fixed_net_HKD_m": 141.5,
+    "gross_surplus_HKD_m": 324.2
+  },
+  {
+    "industry": "港內水運",
+    "year": 2018,
+    "fixed_net_HKD_m": 159.4,
+    "gross_surplus_HKD_m": 323.0
+  },
+  {
+    "industry": "港內水運",
+    "year": 2019,
+    "fixed_net_HKD_m": 146.4,
+    "gross_surplus_HKD_m": 289.5
+  },
+  {
+    "industry": "水運輔助",
+    "year": 2017,
+    "fixed_net_HKD_m": 1029.8,
+    "gross_surplus_HKD_m": 4270.8
+  },
+  {
+    "industry": "水運輔助",
+    "year": 2018,
+    "fixed_net_HKD_m": 658.5,
+    "gross_surplus_HKD_m": 4491.1
+  },
+  {
+    "industry": "水運輔助",
+    "year": 2019,
+    "fixed_net_HKD_m": 624.2,
+    "gross_surplus_HKD_m": 4438.9
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2017,
+    "fixed_net_HKD_m": 28264.8,
+    "gross_surplus_HKD_m": 30509.2
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2018,
+    "fixed_net_HKD_m": 43829.2,
+    "gross_surplus_HKD_m": 31459.5
+  },
+  {
+    "industry": "航空及輔助",
+    "year": 2019,
+    "fixed_net_HKD_m": 36380.3,
+    "gross_surplus_HKD_m": 25341.1
+  },
+  {
+    "industry": "其他運輸輔助",
+    "year": 2017,
+    "fixed_net_HKD_m": 113.3,
+    "gross_surplus_HKD_m": 5640.6
+  },
+  {
+    "industry": "其他運輸輔助",
+    "year": 2018,
+    "fixed_net_HKD_m": 269.5,
+    "gross_surplus_HKD_m": 5855.5
+  },
+  {
+    "industry": "其他運輸輔助",
+    "year": 2019,
+    "fixed_net_HKD_m": 433.9,
+    "gross_surplus_HKD_m": 6084.0
+  },
+  {
+    "industry": "倉庫",
+    "year": 2017,
+    "fixed_net_HKD_m": 282.2,
+    "gross_surplus_HKD_m": 1663.6
+  },
+  {
+    "industry": "倉庫",
+    "year": 2018,
+    "fixed_net_HKD_m": 299.8,
+    "gross_surplus_HKD_m": 1718.8
+  },
+  {
+    "industry": "倉庫",
+    "year": 2019,
+    "fixed_net_HKD_m": 450.3,
+    "gross_surplus_HKD_m": 1821.3
+  },
+  {
+    "industry": "速遞",
+    "year": 2017,
+    "fixed_net_HKD_m": 264.3,
+    "gross_surplus_HKD_m": 2229.4
+  },
+  {
+    "industry": "速遞",
+    "year": 2018,
+    "fixed_net_HKD_m": 199.1,
+    "gross_surplus_HKD_m": 2152.7
+  },
+  {
+    "industry": "速遞",
+    "year": 2019,
+    "fixed_net_HKD_m": 521.9,
+    "gross_surplus_HKD_m": 2203.2
+  },
+  {
+    "industry": "總計",
+    "year": 2017,
+    "fixed_net_HKD_m": 37905.9,
+    "gross_surplus_HKD_m": 64454.8
+  },
+  {
+    "industry": "總計",
+    "year": 2018,
+    "fixed_net_HKD_m": 55492.5,
+    "gross_surplus_HKD_m": 70750.9
+  },
+  {
+    "industry": "總計",
+    "year": 2019,
+    "fixed_net_HKD_m": 47082.6,
+    "gross_surplus_HKD_m": 60550.7
+  }
+]
